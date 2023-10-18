@@ -1,0 +1,3191 @@
+
+VIRTUA FIGHTER 2 FAQ Version 2.00
+=================================
+Copyright 1995.
+
+This FAQ may be freely distributed among the VFing community. No fee is
+charged except for direct costs. You can obtain this FAQ by: 
+
+ftp
+---
+ftp.netcom.com
+/pub/vi/vidgames/faqs
+
+web browser
+-----------
+http://aleph0.clarku.edu/~grace/vf2.html
+
+Any updates, feedback and errors, please send to:
+
+Chia Jin Ngee
+mcblab47@leonis.nus.sg
+
+TABLE OF CONTENTS
+=================
+PREFACE TO VF1 FAQ
+PREFACE TO VF2 FAQ
+WHAT'S NEW
+TERMINOLOGY
+BUTTONS
+     WHILE STANDING
+     WHILE SQUATTING
+HOPPING ATTACKS
+JUMPING ATTACKS
+MOVEMENT
+    TURNING AROUND WITH ATTACKS
+COMMON MOVES FOR ALL CHARACTERS
+    MOVES USABLE WHILE GETTING UP
+    OTHER STANDARD MOVES
+MOVES SPECIFIC TO EACH CHARACTER
+    AKIRA YUKI
+    PAI CHAN
+    LAU CHAN
+    WOLF HAWKFIELD
+    JEFFRY MCWILD
+    KAGE-MARU
+    SARAH BRYANT
+    JACKY BRYANT
+    SHUN DI
+    LION RAFALE
+BASIC OPERATIONS
+    SELECTING YOUR CHARACTER
+    REPLAYS
+ROUNDS AND SETS
+VERSUS COMPUTER COMBAT
+    RANKING MODE
+ENTERING YOUR INITIALS
+SUDDEN DEATH
+CONTROLLER TECHNIQUE
+    JOYSTICK
+    BUTTONS
+GENERAL FIGHTING TECHNIQUES
+FLURRY OF JABS
+HOPPING ATTACKS
+JUMPING ATTACKS
+    DISTANCE DROP KICKS
+    LANDING KICKS
+    OVERHEAD HAMMERS
+RING OUT
+WAITING FOR YOUR BREAK
+DODGING AND COUNTER-ATTACKS
+ATTACK WHILE RISING
+HIT 'EM WHILE THEY'RE DOWN
+KICKFLIPPING
+TURN AROUND ATTACKS
+HARRASSMENT
+AMBUSHES
+PULLING BACK A KICK OR PUNCH
+DELAYED ACTION MOVES
+THROWING
+    PUNCH THROW TECHNIQUES
+    ESCAPING FROM THROWS
+HIT 'EM IN THE AIR
+DEVELOPING YOUR OWN COMBINATIONS
+LOOK AND LISTEN
+EASTER EGGS
+    SLOW MOTION REPLAYS
+    VICTORY TAUNTS
+    GAME COMPLETION REPLAYS
+    KAGE'S FACE MASK
+MYSTERIES AND RUMORS
+CHARACTER GUIDE
+    AKIRA YUKI
+    PAI CHAN
+    LAU CHAN
+    WOLF HAWKFIELD
+    JEFFRY MCWILD
+    KAGE-MARU
+    SARAH BRYANT
+    JACKY BRYANT
+    SHUN DI
+    LION RAFALE
+CREDITS
+
++==================+
+|PREFACE TO VF1 FAQ|
++==================+
+Different is good.
+
+Lately, gamers have been hit pretty hard by a barrage of fighting games
+ranging from those whose only draw is blood and guts to those who resemble
+a sick horse that should be humanely shot or at least taken to a hospital
+for a few years....
+
+With the release of their first ever fighting game, SEGA has broken new
+ground by designing the only current martial arts game whose appeal isn't
+violence or the ever popular 'magic' moves, but more geared towards
+realism, fluidity of motion, and genuine martial art techniques. 
+
+The ability to so successfully meet these goals is due to SEGA's System 1
+polygon graphics engine which is much like the system  used in their
+popular Virtua Racer.  This system can handle over 180,000 flat shaded
+polygons per second, and since the fighters are three-dimensional figures
+made of polygons instead of just flat images, be prepared to be dazzled by
+more than just the backgrounds.
+
+As for the game itself, Virtua Fighter plays like other recent fighting
+games in some respects.  There are 8 characters to choose from, and the
+basic object of the game is to, through the use of punches, kicks, throws,
+grabs, pounces, and a variety of other techniques, drain your opponent's
+life meter. The problem is that at this point Virtua Fighter already shows
+its differences from other fighting games because you can also win by
+knocking your opponent out of the ring.  Another difference is that Virtua
+Fighter has many more special moves than any previous fighting game; there
+are over 100 secret techniques to discover.  Not to mention that it just
+feels more like a real battle due to the fluid motion and realistic moves.
+
+
+Needless to say, Virtua Fighter is destined to be remembered as both a
+great one on one martial arts game and a spectacular fighting simulator. 
+If you haven't seen one yet, then go check it out at your local arcade.
+
+Otherwise, check out the moves and strategies in this FAQ and then use
+them to help you master this exciting game before someone else gets ahead
+of you.
+
++==================+
+|PREFACE TO VF2 FAQ|
++==================+
+This FAQ borrows quite heavily from the original VF1 FAQ. Apart from the
+new moves, many of the old moves are taken from the VF1 FAQ. 
+
+VF2 is indeed a worthy successor to the original VF and has brought
+fighting games to new heights. Apart from a new graphics engine (System
+2), it boasts two new and rather unorthodox characters with equally
+unorthodox fighting styles to match. 
+
+To minimize much confusion in this FAQ, almost all moves are considered to
+be taps. Hold down joystick moves are highlighted as such moves will only
+work properly when the stick is held down. Experimentation with moves has
+also revealed that most moves require the simultaneous tapping of joystick
+and buttons. A good example would be Jacky's Punt Kick which is now "for,
+for+K" instead of "for, for, K". Due to complex button and joystick
+combinations for certain moves, the holding of the defend button feature
+for some moves we know of in VF1 has been removed, so I have decided not
+to highlight this option. Enjoy the FAQ. 
+
++==========+
+|WHAT'S NEW|
++==========+
+
+Version 1.00 - First initial release. Hits for standing or low defenders
+               far from updated. Keep me posted guys.
+
+Version 2.00 - Totally new version. Attack levels added.
+
++===========+
+|TERMINOLOGY|
++===========+-------------------------------------------------------------+
+|Term         Meaning               As in                                 |
++-------------------------------------------------------------------------+
+| For         Forward               Moving the joystick towards your      |
+|                                   opponent                              |
++-------------------------------------------------------------------------+
+| Back        Back                  Moving the joystick away from your    |
+|                                   opponent                              |
++-------------------------------------------------------------------------+
+| Down        Down                  Moving the joystick towards you       |
++-------------------------------------------------------------------------+
+| Up          Up                    Moving the joystick away from you     |
++-------------------------------------------------------------------------+
+| D           Defend                The button that blocks (more below)   |
++-------------------------------------------------------------------------+
+| P           Punch                 The button that punches (more below)  |
++-------------------------------------------------------------------------+
+| K           Kick                  The button that Kicks (more below)    |
++-------------------------------------------------------------------------+
+| All         Press all 3 buttons   Press all 3 buttons                   |
++-------------------------------------------------------------------------+
+| +           And                   Down+Kick (tap Down & Kick as one)    |
+|                                   Punch+Def (press Punch & Def as one)  |
++-------------------------------------------------------------------------+
+| lower case  A quick tap           Quickly tap the joystick; do not hold |
+|                                   eg  back                              |
++-------------------------------------------------------------------------+
+| UPPER CASE  A long press          Hold the joystick briefly. eg BACK    |
++-------------------------------------------------------------------------+
+| /           Diagonal direction    For/Up (a jump forward)               |
++-------------------------------------------------------------------------+
+| Jump        A jumping direction   Either Up/For, Up or Up/Back          |
++-------------------------------------------------------------------------+
+| [ ]         Optional              Will work fine without [ ] part, but  |
+|                                   there IS more to the move you can do  |
++-------------------------------------------------------------------------+
+| SCR         Semi-circle roll      Joystick is rolled half a circle like |
+|                                   a "U" and not the other way round     |
+|                                   ie Back, SCR, For means joystick is   |
+|                                   pushed back with a half roll to       |
+|                                   forward                               |
++-------------------------------------------------------------------------+
+| QCR         Quarter circle roll   Joystick is rolled quarter of a circle|
++-------------------------------------------------------------------------+
+| H           High-level            High level attack                     |
+|                                   Move affects standing non-defenders   |
+|                                   In the counter-attacks section, move  |
+|                                   counters high-level attacks           |
+|                                   In the throws section, move affects   |
+|                                   standing opponents only               |
++-------------------------------------------------------------------------+
+| M           Mid-level             Mid-level attack                      |
+|                                   Move affects squatting opponents and  |
+|                                   non-defenders but not low-level       |
+|                                   attackers                             |
+|                                   In counter-attacks section, move      |
+|                                   counters mid-level attacks            |
++-------------------------------------------------------------------------+
+| L           Low-level             Low level attack                      |
+|                                   Move affects standing opponents and   |
+|                                   squatting non-defenders               |
+|                                   In counter-attacks section, move      |
+|                                   counters low level attacks            |
+|                                   In throws section, move affects low or|
+|                                   squatting opponents                   |
++-------------------------------------------------------------------------+
+| n           Non-defenders         Move affects non-defenders regardless |
+|                                   of their defense position/level       |
++-------------------------------------------------------------------------+
+| *           See comments          Check comments/description column for |
+|                                   more info                             |
++-------------------------------------------------------------------------+
+| B           Behind                Only in the throws section            |
+|                                   Move can only be executed if standing |
+|                                   or squatting opponent has his/her back|
+|                                   facing you                            |
++-------------------------------------------------------------------------+
+| O           No effect             Move has no effect on opponent        |
++-------------------------------------------------------------------------+
+| NA          Not applicable        Not applicable                        |
++-------------------------------------------------------------------------+
+
+
++=======+
+|BUTTONS|
++=======+
+
+     WHILE STANDING
+     ==============
+     PUNCH   - Steps forward with a punch
+               Repeat for multiple punches
+
+     KICK    - A kick to the head
+               Not too powerful or effective
+
+     DEFEND  - Blocks your opponents' high level and jumping attacks
+               You take no damage from such attacks
+               Low attacks do damage
+               You are still pushed backwards
+
+     WHILE SQUATTING
+     ===============
+     PUNCH   - Low punch; hits standing defenders
+               Stays in one place; quite weak and ineffective
+               Good for stopping incoming high attacks
+               If your character does not have a back/down+P or down+P
+               special move or combo, these are alternative ways
+               to execute a low punch.
+
+
+     KICK    - Low snap kick to the leg; very weak
+               Hits standing
+               Longer reach than a low punch, but slower
+               Good for stopping incoming high attacks
+               Good for setting up combos and power attacks
+               Able to stop low attacks if executed in time
+               Able to push opponents back
+               If your character does not have a back/down+K or down+K
+               special move or combo, these are alternative ways
+               to execute a low kick.
+
+     DEFEND  - Defends against all low attacks
+               Ducks under many standing attacks
+               Most jumping/hopping  and mid-level attacks hit
+               Some moves may still push you back
+
+NOTE: defense doesn't work for attacks from behind
+
++===============+
+|HOPPING ATTACKS|
++===============+===============+=====+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| jump, P                       |n    | Hopping hammer                    |
+|                               |     | Tap punch before the apex of the  |
+|                               |     | hop                               |
+|                               |     |                                   |
+| jump, P                       |n    | Hopping jab                       |
+|                               |     | Tap punch after the apex of the   |
+|                               |     | hop                               |
++-------------------------------+-----+-----------------------------------+
+| jump, K                       |M    | Hop kick                          |
+|                               |     | Tap kick before the apex of the   |
+|                               |     | hop                               |
+|                               |     |                                   |
+| jump, K                       |M*   | Late hopping kick                 |
+|                               |     | Tap kick after the apex of the hop|
+|                               |     | * Kage, Lau, Shun and Lion's late |
+|                               |     | hopping kicks hits standing       |
+|                               |     | defenders                         |
+\===============================+=====+===================================/
+
++===============+
+|JUMPING ATTACKS|
++===============+===============+=====+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| JUMP, FOR+P                   |n    | Distance jumping hammer           |
+|                               |     | Hold forward and tap punch before |
+|                               |     | reaching apex of jump             |
++-------------------------------+-----+-----------------------------------+
+| JUMP, K                       |M    | Take-off jump kick                |
+|                               |     | Tap kick while ascending          |
+|                               |     |                                   |
+| UP/FOR+ K                     |M    | Special jump attack for Kage      |
+|                               |     | Kage's 2 tucked somersault butt   |
+|                               |     | slam. Tap kick immediately        |
+|                               |     | at take-off                       |
+|                               |     |                                   |
+| JUMP, K                       |M    | Landing kick                      |
+|                               |     | Before landing, the character     |
+|                               |     | kicks, tap kick when descending   |
+|                               |     |                                   |
+| JUMP, FOR+K                   |M    | Distance drop kick to the front   |
+|                               |     | Hold forward and tap kick         |
+|                               |     | before reaching apex of jump      |
+|                               |     |                                   |
+| UP/FOR, DOWN/FOR+K            |M    | Pai's Crane Stomp                 |
+|                               |     | Hold down/for and tap kick        |
+|                               |     | before apex of jump               |
+|                               |     |                                   |
+| JUMP, BACK+K                  |M    | Distance jump kick to the back    |
+|                               |     | Hold back and tap kick before     |
+|                               |     | apex of jump                      |
+\===============================+=====+===================================/
+
+Note: You can make two jumping attacks per jump now. One at take-off and
+another just before you land. Various combinations can be achieved. Like
+take-off jump kick with a distance jumping hammer upon landing or take-off
+jump kick with a landing kick upon landing. Kage and Pai's special jumping
+attacks cannot be used in combination with other jumping attacks. 
+
++========+
+|MOVEMENT|
++========+======+===============+=====+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| for, for                      |OO   | Step forward quickly              |
+| back, back                    |OO*  | Step backward quickly             |
+|                               |     | * Only Shun changes feet position |
+|                               |     | after stepping backwards quickly  |
+| for, FOR                      |OO   | Run forward                       |
+| Hold or tap towards opponent  |O    | Turn around                       |
++-------------------------------+-----+-----------------------------------+
+| back, back                    |OO   | Shun's special                    |
+|                               |     | Shun rolls away if his back faces |
+|                               |     | his opponent                      |
++-------------------------------+-----+-----------------------------------+
+| FOR                           |O    | Inch forward slowly               |
+| BACK                          |O    | Inch backward slowly              |
+\===============================+=====+===================================/
+
+     +===========================+
+     |TURNING AROUND WITH ATTACKS|
++====+==========================++====+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P                             |n    | Turn around with a punch          |
+|                               |     |                                   |
+| K                             |n*   | Turn around with a kick           |
+|                               |     | *Sarah's turn around kick can hit |
+|                               |     | low defenders                     |
++-------------------------------+-----+-----------------------------------+
+| down+P                        |L    | Turn around with a low punch      |
+|                               |     |                                   |
+| down+K                        |L    | Turn around with a low kick       |
++-------------------------------+-----+-----------------------------------+
+| up+K                          |M    | Kage's Sky knee attack            |
+|                               |     | Kage flips and attacks with knees |
+|                               |     | If this attack fails, Kage's back |
+|                               |     | is still facing the opponent      |
++-------------------------------+-----+-----------------------------------+
+| back/down+K                   |n    | Sarah's High back thrust          |
+|                               |     | Sarah does a one leg mule kick and|
+|                               |     | turns around                      |
++-------------------------------+-----+-----------------------------------+
+| back+BUTTONS                  |*    | Turn around and face your opponent|
+|                               |     | with your character's turn away   |
+|                               |     | move if they have any             |
+|                               |     | * Hits depends on the move your   |
+|                               |     | character's attack                |
+\===============================+=====+===================================/
+
++===============================+
+|COMMON MOVES FOR ALL CHARACTERS|
++===============================+
+     +=============================+
+     |MOVES USABLE WHILE GETTING UP|
++====+==========================+==+==+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| K                             |M    | Rising heel kick                  |
+|                               |     | Head not toward opponent          |
+|                               |     | Tap kick repeatedly               |
++-------------------------------+-----+-----------------------------------+
+| DOWN+K                        |L    | Rising sweep                      |
+|                               |     | Tap kick repeatedly while holding |
+|                               |     | down                              |
++-------------------------------+-----+-----------------------------------+
+| D, K                          |M    | Roll and heel kick                |
+|                               |     | Tap kick when roll starts         |
++-------------------------------+-----+-----------------------------------+
+| D, DOWN+K                     |L    | Roll and sweep                    |
+|                               |     | Hold down and tap kick when roll  |
+|                               |     | starts                            |
++-------------------------------+-----+-----------------------------------+
+| K                             |L    | Rear kick                         |
+|                               |     | Head Toward opponent              |
++-------------------------------+-----+-----------------------------------+
+| BACK                          |O    | Roll away                         |
++-------------------------------+-----+-----------------------------------+
+| BACK, K                       |M    | Rolls away with mule kick         |
+|                               |     | Tap kick while rolling            |
++-------------------------------+-----+-----------------------------------+
+| BACK, DOWN+K                  |L    | Roll away and sweep               |
+|                               |     | Hold down and tap kick when       |
+|                               |     | roll starts                       |
++-------------------------------+-----+-----------------------------------+
+| BACK, FOR+K                   |M    | Roll away with rising heel kick   |
+|                               |     | Kage, Wolf, Jeffry and Lion       |
+|                               |     | counter rolls and do a heel       |
+|                               |     | smash                             |
+|                               |     | To do correctly, push stick       |
+|                               |     | toward opponent when rolling      |
+|                               |     | tap kick repeatedly               |
++-------------------------------+-----+-----------------------------------+
+| UP                            |O    | Handspring                        |
+\===============================+=====+===================================/
+
+    +====================+
+    |OTHER STANDARD MOVES|
++===+====================+======+=====+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| DOWN/FOR+K                    |M    | Side kick                         |
+|                               |     | Rather fast, good reach but slow  |
+|                               |     | recoveries                        |
+\===============================+=====+===================================/
+
++================================+
+|MOVES SPECIFIC TO EACH CHARACTER|
++================================+
+
+AKIRA YUKI
+==========
+ Date of Birth: 23th September 1968
+           Sex: Male
+    Blood type: O
+           Job: Kung Fu teacher
+         Hobby: Kung Fu
+   Nationality: Japan
+Fighting style: Hakkyoku-ken/Eight Poles Fist
+
+     +================================+
+     |AKIRA'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+-----+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P                          |HM   | Running punches with body blow    |
+|                               |     | Akira changes feet position after |
+|                               |     | body blow                         |
+|                               |     |                                   |
+| P, K                          |HH   | Punch, kick combo                 |
++-------------------------------+-----+-----------------------------------+
+| for, for+K, [K]               |MM   | Jumping kick[s]                   |
++-------------------------------+-----+-----------------------------------+
+| for, for+P                    |M    | Dashing elbow strike              |
+|                               |     |                                   |
+| for, for, for+P               |M    | Long range dashing elbow strike   |
+|                               |     | Akira changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| DOWN, for+P                   |n    | Dashing palm strike               |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |M    | Elbow strike                      |
++-------------------------------+-----+-----------------------------------+
+| back, for, for+P+K            |n    | Dashing body check                |
++-------------------------------+-----+-----------------------------------+
+| down/for, down/for+P          |M    | Power uppercut                    |
+|                               |     | Akira will step forward quickly   |
+|                               |     | and strike with palm upwards      |
++-------------------------------+-----+-----------------------------------+
+| DOWN, back, for+P             |M    | Dashing two palm strike           |
+|                               |     | Akira strikes opponent with both  |
+|                               |     | his palms                         |
+|                               |     | Can be done by rolling the stick  |
+\===============================+=====+===================================/
+
+     +===========================================+
+     |AKIRA'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+==========+========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| D, back+P                     |H    | Counters any incoming high        |
+|                               |     | level attacks                     |
+|                               |     |                                   |
+| D, back/down+P                |M    | Counters mid-level attacks        |
+|                               |     | eg side kicks                     |
+|                               |     |                                   |
+| D, down+P                     |L    | Counters low-level attacks        |
+|                               |     | eg sweeps                         |
+\===============================+=====+===================================/
+
+     +====================================+
+     |AKIRA'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Trip and punches                  |
+|                               |     | Grabs hand, trips opponent and    |
+|                               |     | punches abdomen 3 times           |
++-------------------------------+-----+-----------------------------------+
+| All                           |H    | Stun palm                         |
+|                               |     | A single palm to the abdomen that |
+|                               |     | stuns opponent                    |
++-------------------------------+-----+-----------------------------------+
+| back/down+P+D                 |H    | Surprise exchange                 |
+|                               |     | Pulls and moves behind opponent   |
+|                               |     | allowing for a free strike        |
++-------------------------------+-----+-----------------------------------+
+| for+P+D                       |H    | Break stance                      |
+|                               |     | Breaks opponents defensive stance |
+|                               |     | pushing up their hands            |
++-------------------------------+-----+-----------------------------------+
+| back+P+D                      |H    | Shake 'em up                      |
+|                               |     | Breaks opponents defensive stance |
+|                               |     | by doing trip but stops short     |
+|                               |     | of pushing them down              |
++-------------------------------+-----+-----------------------------------+
+| for, back, for+P+K            |H    | Close-in ram                      |
+|                               |     | Breaks opponents defensive stance,|
+|                               |     | rams with shoulder then with back |
++-------------------------------+-----+-----------------------------------+
+| back/down, for+P              |H    | Pull in, push out                 |
+|                               |     | Takes opponents hand, draws       |
+|                               |     | opponent in and pushes out with   |
+|                               |     | his shoulder                      |
++-------------------------------+-----+-----------------------------------+
+| back, down/for+P+K            |H    | Backwards uppercut                |
+|                               |     | Moves behind opponent and  hits   |
+|                               |     | opponent with his back            |
++-------------------------------+-----+-----------------------------------+
+| back, down+P+D                |H    | Stumbling trip                    |
+|                               |     | Trips opponent and moves behind   |
+|                               |     | Does little damage but opponent   |
+|                               |     | stumbles and crawls away making   |
+|                               |     | him vulnerable to any attack      |
++-------------------------------+-----+-----------------------------------+
+| for, for+K+D, release D       |M    | Knee                              |
+|                               |     | Akira changes feet position after |
+|                               |     | this move                         |
+|                               |     | You have to release D while still |
+|                               |     | holding on to K                   |
+\===============================+=====+===================================/
+
+     +======================================+
+     |AKIRA'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |NA   | Punch                             |
+|                               |     | Punches fallen opponent           |
+|                               |     | You must be near fallen opponent  |
+|                               |     | to connect                        |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Jumping punch                     |
+|                               |     | Jumps and punches fallen opponent |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+PAI CHAN
+========
+ Date of Birth: 17th May 1975
+           Sex: Female
+    Blood type: O
+           Job: Action star
+         Hobby: Dancing
+   Nationality: Hong Kong
+Fighting style: Ensei-ken/Crane Fist
+
+     +==============================+
+     |PAI'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+---+-+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHH  | Running punches                   |
+|                               |     |                                   |
+| P, K                          |HH   | Punch and heel kick               |
+|                               |     |                                   |
+| P, P, K                       |HHH  | 2 punches and straight kick       |
+|                               |     |                                   |
+| P, P, P, K                    |HHHH | 3 punches and spinning crescent   |
+|                               |     |                                   |
+| P, P, P, back/up+K            |HHHM | 3 punches and backward kickflip   |
+|                               |     |                                   |
+| P, P, P, DOWN+K               |HHHL | 3 punches and sweep               |
++-------------------------------+-----+-----------------------------------+
+| DOWN release+K                |H    | Heel kick                         |
++-------------------------------+-----+-----------------------------------+
+| D+K                           |H    | Crescent kick                     |
++-------------------------------+-----+-----------------------------------+
+| DOWN+D+K                      |L    | Sweep                             |
++-------------------------------+-----+-----------------------------------+
+| back/up+K                     |M    | Backward kickflip                 |
++-------------------------------+-----+-----------------------------------+
+| back/up, [back/up+K]          |OM   | Backflip, [flipkick]              |
++-------------------------------+-----+-----------------------------------+
+| for/up+K, [K]                 |MM   | Jumping scissors kick[s]          |
+|                               |     | Pai changes feet position when she|
+|                               |     | lands                             |
++-------------------------------+-----+-----------------------------------+
+| for, for+K                    |H    | High lunging leg thrust           |
++-------------------------------+-----+-----------------------------------+
+| for/down+P                    |M    | Downward chop                     |
++-------------------------------+-----+-----------------------------------+
+| back+K+D                      |H    | Reverse crescent kick             |
++-------------------------------+-----+-----------------------------------+
+| for+K                         |M    | Snap kick                         |
++-------------------------------+-----+-----------------------------------+
+| back, back+P                  |H    | Jabbing footwork                  |
+|                               |     | Does a hand jab and changes feet  |
+|                               |     | positioning                       |
+\===============================+=====+===================================/
+
+     +=========================================+
+     |PAI'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+========+==========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| back+P                        |H    | Grab and throw                    |
+|                               |     | Grabs incoming punches, high kicks|
+|                               |     | hop kicks, toe kicks, punt kicks  |
+|                               |     |                                   |
+| back/down+P                   |M    | Grabs mid-level attacks           |
+|                               |     | Grabs side kicks                  |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |H    | Dodge and punch                   |
+|                               |     | Pai  does a head dodge and        |
+|                               |     | punches                           |
+\===============================+=====+===================================/
+
+     +==================================+
+     |PAI'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+=+=================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Wrist twist                       |
+|                               |     | Grabs hand and twist opponent     |
+|                               |     | to the ground                     |
++-------------------------------+-----+-----------------------------------+
+| for, down+P                   |H    | Falling DDT                       |
+|                               |     | Grabs head and falls backward     |
++-------------------------------+-----+-----------------------------------+
+| back, down+P+D                |H    | Stomach throw                     |
++-------------------------------+-----+-----------------------------------+
+| for, forP+K                   |H    | Reaping throw and punch           |
+|                               |     | Push opponents throat while       |
+|                               |     | tripping one leg then punches     |
+|                               |     | thrown opponent on the ground     |
++-------------------------------+-----+-----------------------------------+
+| back, for+P                   |H    | Pushover                          |
+|                               |     | Jumps into opponent and pushes    |
+|                               |     | them down                         |
++-------------------------------+-----+-----------------------------------+
+| for+All                       |M    | Cartwheels over squatting opponent|
+|                               |     | Pai changes feet position after   |
+|                               |     | cartwheeling over                 |
+\===============================+=====+===================================/
+
+     +====================================+
+     |PAI'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+===+===============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |NA   | Punch                             |
+|                               |     | Punches fallen opponent           |
+|                               |     | You must be near fallen opponent  |
+|                               |     | to connect                        |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Low knees pounce                  |
+|                               |     |                                   |
+| UP+P                          |NA   | High knees pounce                 |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+LAU CHAN
+========
+ Date of Birth: 2nd October 1940
+           Sex: Male
+    Blood type: B
+           Job: Chinese chef
+         Hobby: Chinese poem
+   Nationality: China
+Fighting style: Koen-ken/Tiger-Swallow Fist
+
+     +==============================+
+     |LAU'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+---+-+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHH  | Running punches                   |
+|                               |     |                                   |
+| P, K                          |HH   | Punch and heel kick               |
+|                               |     |                                   |
+| P, P, K                       |HHH  | 2 punches and straight kick       |
+|                               |     |                                   |
+| P, P, P, K                    |HHHH | 3 punches and spinning crecent    |
+|                               |     |                                   |
+| P, P, P, back/up+K            |HHHM | 3 punches and backward kickflip   |
+|                               |     |                                   |
+| P, P, P, DOWN+K               |HHHL | 3 punches and sweep               |
++-------------------------------+-----+-----------------------------------+
+| DOWN release+K                |H    | Heel kick                         |
++-------------------------------+-----+-----------------------------------+
+| DOWN/FOR+P, [P], [P]          |HHH  | Lifting palm                      |
+|                               |     | This move comes out immediately   |
+|                               |     | after any kick from Lau when      |
+|                               |     | you tap Punch                     |
+|                               |     |                                   |
+| DOWN/FOR+P, [combos]          |H****| Lifting palm followed by any      |
+|                               |     | control motion for punch combos   |
+|                               |     | *Hits depend on your punch combos |
++-------------------------------+-----+-----------------------------------+
+| down/for+P, [P], [P]          |MHH  | Knife hand, [running punches]     |
+|                               |     |                                   |
+| down/for+P, [combos]          |M****| Knife hand followed by any control|
+|                               |     | motion for punch combos           |
+|                               |     | *Hits depend on your punch combos |
++-------------------------------+-----+-----------------------------------+
+| for/down, for/down+P, [P], [P]|MHH  | Dashing knife, [running punches]  |
+|                               |     | Lau changes feet position         |
+|                               |     |                                   |
+| for/down, for/down+P, [combos]|M****| Dashing knife followed by any     |
+|                               |     | control motion for punch combos   |
+|                               |     | *Hits depend on your punch combos |
++-------------------------------+-----+-----------------------------------+
+| back/down+P, [P], [P]         |HHH  | Forearm strike, [running punches] |
+|                               |     |                                   |
+| back/down+P, [combos]         |H****| Forearm strike followed by any    |
+|                               |     | control motion for punch combos   |
+|                               |     | *Hits depend on your punch combos |
++-------------------------------+-----+-----------------------------------+
+| for/up+K                      |M    | Forward cartwheel kick            |
++-------------------------------+-----+-----------------------------------+
+| for/up+K+D                    |M    | Short jump kick                   |
++-------------------------------+-----+-----------------------------------+
+| K+D                           |H    | Spinning crescent kick            |
++-------------------------------+-----+-----------------------------------+
+| DOWN+K+D                      |L    | Sweep                             |
++-------------------------------+-----+-----------------------------------+
+| back/up+K                     |M    | Backward kickflip                 |
++-------------------------------+-----+-----------------------------------+
+| back/up, [back/up+K]          |OM   | Backflip, [kickflip]              |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |M    | Elbow strike                      |
++-------------------------------+-----+-----------------------------------+
+| for+K                         |M    | Snap kick                         |
++-------------------------------+-----+-----------------------------------+
+| for, down+K                   |L    | Sliding attack                    |
+\===============================+=====+===================================/
+
+     +==================================+
+     |LAU'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+=+=================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Waterwheel drop                   |
+|                               |     | Flips opponent across shoulders   |
++-------------------------------+-----+-----------------------------------+
+| back+P                        |H    | Piggyback drop                    |
+|                               |     | Flips opponent over shoulders     |
++-------------------------------+-----+-----------------------------------+
+| back, for+P                   |H    | Head slam                         |
+|                               |     | Grabs opponents throat, jumps     |
+|                               |     | and slams head on the ground      |
++-------------------------------+-----+-----------------------------------+
+| back, down+P+D                |H    | Sideways throw                    |
+|                               |     | Grabs opponent and throws sideways|
+\===============================+=====+===================================/
+
+     +====================================+
+     |LAU'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+===+===============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| for/down+K                    |NA   | Foot stomp                        |
+|                               |     | Stamps foot on fallen opponent    |
+|                               |     | Must be near to connect           |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Single feet stomping pounce       |
+|                               |     |                                   |
+| UP+P                          |NA   | Double feet stomping pounce       |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+WOLF HAWKFIELD
+==============
+ Date of Birth: 8th Febuary 1966
+           Sex: Male
+    Blood type: O
+           Job: Wrestler
+         Hobby: Karaoke
+   Nationality: Canada
+Fighting style: Professional wrestling
+
+     +===============================+
+     |WOLF'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+-----+===+===============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHM  | Running punches, [uppercut]       |
+|                               |     |                                   |
+| P, K                          |HH   | Punch and kick                    |
++-------------------------------+-----+-----------------------------------+
+| for+K                         |M    | Knee                              |
+|                               |     | Wolf changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |M    | Uppercut                          |
+|                               |     |                                   |
+| DOWN/FOR+P                    |M    | Uppercut from low position        |
++-------------------------------+-----+-----------------------------------+
+| for, for+P                    |L    | Running clothesline               |
+|                               |     | Though this is a high level attack|
+|                               |     | standing opponents are vulnerable |
+|                               |     | so it is listed as a low-level    |
+|                               |     | attack                            |
++-------------------------------+-----+-----------------------------------+
+| back, for+P                   |n    | Dashing shoulder ram              |
++-------------------------------+-----+-----------------------------------+
+| back+P                        |H    | Back hand slap                    |
++-------------------------------+-----+-----------------------------------+
+| K+D                           |H    | Scissors kick                     |
++-------------------------------+-----+-----------------------------------+
+| back, for+K+D                 |M    | Somersault heel smash             |
++-------------------------------+-----+-----------------------------------+
+| for+K+D                       |H    | Roundhouse kick                   |
+|                               |     | Wolf changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| for, for+K+D                  |H    | Flying knee attack                |
+|                               |     | Wolf jumps, twists and does a     |
+|                               |     | scissors kick-like attack with    |
+|                               |     | his knee                          |
+|                               |     | Wolf changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| up/for+K                      |M    | Drop kick                         |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |M    | Body blow                         |
++-------------------------------+-----+-----------------------------------+
+| back+P+K                      |M    | Drop elbow                        |
+|                               |     | Wolf changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| for, down+K                   |L    | Sliding attack                    |
++-------------------------------+-----+-----------------------------------+
+| DOWN, QCR, for+P              |M    | Two hand upward slap              |
+|                               |     | Do not jerk the stick forward or  |
+|                               |     | you will not get it out           |
+\===============================+=====+===================================/
+
+     +==========================================+
+     |WOLF'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+=========+=========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |M    | Grabs side kicks and twists leg   |
+|                               |     | causing opponent to fall with     |
+|                               |     | damage                            |
+\===============================+=====+===================================/
+
+     +===================================+
+     |WOLF'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+=========+=========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Backfall suplex                   |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |B    | German suplex                     |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |H    | Body slam                         |
++-------------------------------+-----+-----------------------------------+
+| back, SCR, for+P              |H    | Twirl and Hurl                    |
++-------------------------------+-----+-----------------------------------+
+| down/for, down/for+P+K        |H    | Ghostbuster                       |
+|                               |     | Grabs opponent like performing    |
+|                               |     | backfall but brainbusts           |
+|                               |     | opponent instead                  |
++-------------------------------+-----+-----------------------------------+
+| for/up+K+D                    |H    | Frankensteiner                    |
+|                               |     | Grabs opponents head in-between   |
+|                               |     | thighs and flips to bring         |
+|                               |     | opponents head down               |
++-------------------------------+-----+-----------------------------------+
+| back/down+All                 |L    | Double arm suplex                 |
++-------------------------------+-----+-----------------------------------+
+| for/down+All                  |L    | Tombstone                         |
+|                               |     | Raises opponent like double arm   |
+|                               |     | suplex but brainbusts opponent    |
+|                               |     | instead                           |
++-------------------------------+-----+-----------------------------------+
+| down+P+D                      |L    | Torso takedown                    |
++-------------------------------+-----+-----------------------------------+
+| All                           |B    | Variation German suplex           |
+|                               |     | Similar to German suplex but      |
+|                               |     | hooks opponent from underarms     |
+\===============================+=====+===================================/
+
+     +=====================================+
+     |WOLF'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+====+==============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |NA   | Elbow drop                        |
+|                               |     | You must be close to fallen       |
+|                               |     | opponent to connect               |
++-------------------------------+-----+-----------------------------------+
+| back/up+K                     |NA   | Back body splash                  |
+|                               |     | Wolf will flip and land with      |
+|                               |     | his back on fallen opponent       |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Low jumping elbow drop            |
+|                               |     |                                   |
+| UP+P                          |NA   | High jumping elbow drop           |
+\===============================+=====+===================================/
+
+---------------------------------------------------------------------------
+
+JEFFRY McWILD
+=============
+ Date of Birth: 20th Febuary 1957
+           Sex: Male
+    Blood type: A
+           Job: Fisherman
+         Hobby: Reggae music
+   Nationality: Australia
+Fighting style: Pancratium
+
+     +=================================+
+     |JEFFRY'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+-----++==================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHM  | Running punches, [uppercut]       |
+|                               |     |                                   |
+| P, K                          |     | Punch, kick combo                 |
++-------------------------------+-----+-----------------------------------+
+| down/for+P, [P]               |MM   | Uppercut[s]                       |
+|                               |     |                                   |
+| DOWN/FOR+P                    |M    | Uppercut from low position        |
++-------------------------------+-----+-----------------------------------+
+| down+K, [P]                   |Mn   | Toe kick, [hammer]                |
+|                               |     |                                   |
+| down+K, down, QCR, for+All    |M*   | Toe kick of Doom                  |
+|                               |     | A toe kick followed by a crucifix |
+|                               |     | piledriver                        |
+|                               |     | Wait for Jeffry to recover from   |
+|                               |     | the toe kick before you start the |
+|                               |     | QCR motion for the piledriver     |
+|                               |     | * Piledriver connects if toe kick |
+|                               |     | hits                              |
++-------------------------------+-----+-----------------------------------+
+| for, for+P, [P]               |MM   | Dashing low elbow, [uppercut]     |
+|                               |     | Jeffry changes feet position after|
+|                               |     | the low elbow                     |
++-------------------------------+-----+-----------------------------------+
+| for, for+K                    |M    | Frontal foot thrust               |
++-------------------------------+-----+-----------------------------------+
+| for, down+K                   |M    | Heel axe                          |
+|                               |     | Almost the same as the foot thrust|
+|                               |     | but slams heel on opponent        |
+|                               |     | Jeffry changes feet position after|
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| for+K                         |M    | Knee                              |
+|                               |     | Jeffry changes feet position after|
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back, for/down+P              |M    | Lunging drop elbow                |
++-------------------------------+-----+-----------------------------------+
+| back, for+P                   |H    | Drop elbow                        |
+|                               |     | Jeffry changes feet position after|
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| for+P+K                       |H    | Head butt                         |
++-------------------------------+-----+-----------------------------------+
+| back/down, for+P+K            |M    | Thrusting head butt               |
++-------------------------------+-----+-----------------------------------+
+| All                           |M    | Flying butt attack                |
+\===============================+=====+===================================/
+
+     +============================================+
+     |JEFFRY'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+===========+=======================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |H    | Dodge and Jab                     |
+|                               |     | A head dodge and a jab            |
+\===============================+=====+===================================/
+
+     +=====================================+
+     |JEFFRY'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+====+==============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Fireman's carry                   |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |B    | Backbreaker                       |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |H    | Powerslam                         |
++-------------------------------+-----+-----------------------------------+
+| back+P+D                      |H    | Body press                        |
++-------------------------------+-----+-----------------------------------+
+| down/for, down/for+P+K        |H    | Crucifix piledriver               |
++-------------------------------+-----+-----------------------------------+
+| back, for+P+K, forP+K, forP+K |H    | Triple head butts                 |
+|                               |     | The subsequent head butts after   |
+|                               |     | the first are optional            |
++-------------------------------+-----+-----------------------------------+
+| back, for, for+All            |H    | Backbreaker                       |
++-------------------------------+-----+-----------------------------------+
+| down+P                        |L    | Face grab                         |
++-------------------------------+-----+-----------------------------------+
+| DOWN, for+K                   |L    | Triple knee bash                  |
++-------------------------------+-----+-----------------------------------+
+| for/down+All                  |L    | Powerbomb                         |
+\===============================+=====+===================================/
+
+     +=======================================+
+     |JEFFRY'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+====+==============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| for/down+K                    |NA   | Foot stomp                        |
+|                               |     | Stamps foot on opponent           |
+|                               |     | Jeffry changes feet position after|
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Body splash                       |
+|                               |     |                                   |
+| UP+P                          |NA   | Butt bomb                         |
+\===============================+=====+===================================/
+
+---------------------------------------------------------------------------
+
+KAGE-MARU
+=========
+ Date of Birth: 6th June 1971
+           Sex: Male
+    Blood type: B
+           Job: Ninja
+         Hobby: Mahjong
+   Nationality: Japan
+Fighting style: Hagakure-ryu Jujutsu/Jujitsu, Hagakure style
+
+     +===============================+
+     |KAGE'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+----++===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHH  | Running punches                   |
+|                               |     |                                   |
+| P, K                          |HH   | Punch and kick                    |
+|                               |     |                                   |
+| P, P, K                       |HHH  | 2 punches and straight kick       |
+|                               |     |                                   |
+| P, P, P, K                    |HHHM | 3 punches and spin kick           |
+|                               |     |                                   |
+| P, P, P, back/up+K            |HHHM | 3 punches and backward kickflip   |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |M    | Elbow strike                      |
++-------------------------------+-----+-----------------------------------+
+| down+K+D                      |H    | Heel kick                         |
++-------------------------------+-----+-----------------------------------+
+| DOWN, for+K                   |n    | Rising knee                       |
+|                               |     | Kage changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back/up+K                     |M    | Backward kickflip                 |
++-------------------------------+-----+-----------------------------------+
+| back/up+K+D                   |M    | Kickflip                          |
++-------------------------------+-----+-----------------------------------+
+| back/up, [back/up+K]          |OM   | Backflip, [flipkick]              |
++-------------------------------+-----+-----------------------------------+
+| for, for+K                    |L    | Backheel sweep                    |
+|                               |     | Kage changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| for, for+All                  |L    | Rolling flying kick               |
+|                               |     | Though this attack is in the air, |
+|                               |     | it hits standing opponents and so |
+|                               |     | it is listed as a low level attack|
++-------------------------------+-----+-----------------------------------+
+| for, for+K+D                  |M    | Flying corkscrew kick             |
+|                               |     | Kage changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back, SCR, for[+K]            |OL   | Roll forwards [sweep]             |
++-------------------------------+-----+-----------------------------------+
+| for, SCR, back[+K]            |OL   | Roll backwards [sweep]            |
++-------------------------------+-----+-----------------------------------+
+| back, D                       |O    | Cartwheel backwards               |
++-------------------------------+-----+-----------------------------------+
+| back+K+D                      |H    | Back Thrust                       |
+|                               |     | Steps forward and back thrusts    |
+|                               |     | opponent                          |
++-------------------------------+-----+-----------------------------------+
+| back, QCR, down+K             |L    | Sliding attack                    |
+|                               |     | Kage changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back, for+P+K, [P+K]          |nH   | Downward chop, [slap]             |
+|                               |     | A smashing chop that can be       |
+|                               |     | followed by a horizontal slap     |
+|                               |     | Kage changes feet position after  |
+|                               |     | the downward chop                 |
++-------------------------------+-----+-----------------------------------+
+| down+P+K, [P+K]               |nM   | Downward fist, [backfist]         |
+|                               |     | A smashing fist that can be       |
+|                               |     | followed by a backfist            |
+|                               |     | Kage changes feet position after  |
+|                               |     | the downward fist                 |
++-------------------------------+-----+-----------------------------------+
+| back, back+K                  |n    | Turning high back thrust          |
+|                               |     | Turns to face back at opponent    |
+|                               |     | to do a backward leg thrust       |
++-------------------------------+-----+-----------------------------------+
+| back, back+P                  |n    | Turning downward chop             |
+|                               |     | Turns with a chop downward to     |
+|                               |     | face back at opponent             |
++-------------------------------+-----+-----------------------------------+
+| back, back+K+D                |L    | Turning toe slide                 |
+|                               |     | Turns to face back at opponent    |
+|                               |     | while doing a toe slide back to   |
+|                               |     | hit standing opponent             |
++-------------------------------+-----+-----------------------------------+
+| back, back+P+D                |n    | Turning upward chop               |
+|                               |     | Turns with a chop upward to       |
+|                               |     | face back at opponent             |
+\===============================+=====+===================================/
+
+     +==========================================+
+     |KAGE'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+=========+=========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| down+P                        |H    | Grab and throw                    |
+|                               |     | Grabs opponents incoming punch    |
+|                               |     | and throws aikido style           |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |H    | Dodge and punch                   |
+|                               |     | Kage does a head dodge and        |
+|                               |     | punches                           |
+\===============================+=====+===================================/
+
+     +===================================+
+     |KAGE'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+==+================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Hip throw AKA Shoulder throw      |
+|                               |     | Kage grabs opponents hand and     |
+|                               |     | shoulder; turns around and flips  |
+|                               |     | opponent over his shoulder        |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |B    | Torso takedown                    |
++-------------------------------+-----+-----------------------------------+
+| back+P                        |H    | Ten foot toss                     |
+|                               |     | Kage grabs opponents shoulders    |
+|                               |     | pulls in, fall back and kicks     |
+|                               |     | opponent up into the air          |
++-------------------------------+-----+-----------------------------------+
+| back, for+P                   |H    | Reaping throw                     |
+|                               |     | One leg trips opponent while one  |
+|                               |     | hand holds neck and pushes        |
++-------------------------------+-----+-----------------------------------+
+| All                           |H    | Toka throw                        |
+|                               |     | One hand holds opponents waist    |
+|                               |     | while bending down to trip        |
+|                               |     | opponent with the other hand      |
+\===============================+=====+===================================/
+
+     +=====================================+
+     |KAGE'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+====+==============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+|  for/down+K                   |NA   | Heel smash                        |
+|                               |     | Heels fallen opponent             |
+|                               |     | You must be near to connect       |
++-------------------------------+-----+-----------------------------------+
+|  up+P or UP+P                 |NA   | 3 pounces at different ranges     |
+|                               |     | Near  : Head dive                 |
+|                               |     | Medium: Jump into the air, flips, |
+|                               |     |         twists and land feet      |
+|                               |     |         first                     |
+|                               |     | Far   : Jumps, flips and land     |
+|                               |     |         knees first               |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+SARAH BRYANT
+============
+ Date of Birth: 4th July 1973
+           Sex: Female
+    Blood type: AB
+           Job: College student
+         Hobby: Sky diving
+   Nationality: USA
+Fighting style: Sekken-Do/Jeet Kune Do
+
+     +================================+
+     |SARAH'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+-----+===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHH  | Running punches, [hook]           |
+|                               |     |                                   |
+| P, K                          |HH   | Punch and kick                    |
+|                               |     |                                   |
+| P, down+K                     |HM   | Punch and side kick               |
+|                               |     |                                   |
+| K, P                          |HH   | Kick and punch                    |
+|                               |     |                                   |
+| P, P, K                       |HHH  | 2 punches and straight kick       |
+|                               |     |                                   |
+| P, P, P, K                    |HHHn | 3 punches and rising knee         |
+|                               |     | Sarah changes feet position after |
+|                               |     | this combo                        |
+|                               |     |                                   |
+| P, P, P, up+K                 |HHHM | 3 punches and hopping toe kick    |
+|                               |     | Sarah changes feet position after |
+|                               |     | this combo                        |
+|                               |     |                                   |
+| P, P, P, back/up+K            |HHHM | 3 punches and kickflip            |
++-------------------------------+-----+-----------------------------------+
+| for+P,                        |M    | Elbow strike                      |
+|                               |     |                                   |
+| for+P, K                      |MM   | Elbow-knee combo                  |
+|                               |     | Sarah changes feet position after |
+|                               |     | this combo                        |
++-------------------------------+-----+-----------------------------------+
+| for+K, [for/down+K]           |MH   | Knee, [rising knee]               |
+|                               |     | Sarah changes feet position after |
+|                               |     | the first knee                    |
++-------------------------------+-----+-----------------------------------+
+| DOWN, for+K                   |H    | Rising knee                       |
+|                               |     | Sarah changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| for, for+K                    |M    | Lunging knee                      |
+|                               |     | Sarah changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| down+K                        |M    | High snap kick AKA Big Punt       |
+|                               |     | Formerly, this move is down/for+K |
+|                               |     | in VF1
+|                               |     |                                   |
+| down+K, K                     |MM   | Toe kick, side kick               |
+|                               |     | Sarah changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| DOWN/FOR+K, K, [K]            |MHH  | 2, [3] Shadow kicks               |
++-------------------------------+-----+-----------------------------------+
+| DOWN+K+D                      |L    | Crouching side kick               |
++-------------------------------+-----+-----------------------------------+
+| back/up, [back/up+K]          |OM   | backflip, [flipkick]              |
++-------------------------------+-----+-----------------------------------+
+| back/up+K                     |M    | Kickflip                          |
++-------------------------------+-----+-----------------------------------+
+| D+K                           |H    | Crescent kick                     |
++-------------------------------+-----+-----------------------------------+
+| up+K                          |M    | Roundhouse kick                   |
+|                               |     | A hopping roundhouse kick         |
+|                               |     |                                   |
+| for/up+K                      |M    | Roundhouse kick                   |
+|                               |     | Same as above but jumps forward   |
++-------------------------------+-----+-----------------------------------+
+| for/up+K+D                    |H    | Tornado kick                      |
+|                               |     | A jumping roundhouse kick         |
+|                               |     | Sarah changes feet position after |
+|                               |     | this movev                        |
++-------------------------------+-----+-----------------------------------+
+| back+K                        |H    | Double kick                       |
+|                               |     | A double kick to the head         |
+|                               |     | Sarah changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back/down+K+D                 |M    | Side hook kick                    |
+|                               |     | Sarah will skip forward with a    |
+|                               |     | downward heel kick like in TKD    |
++-------------------------------+-----+-----------------------------------+
+| back, back+P                  |H    | Turning punch                     |
+|                               |     | Turns away from opponent with a   |
+|                               |     | punch                             |
++-------------------------------+-----+-----------------------------------+
+| back, back+K                  |H    | Turning jump kick                 |
+|                               |     | Jumps and turns around doing an   |
+|                               |     | aerial back thrust                |
++-------------------------------+-----+-----------------------------------+
+| DOWN, back+K, [K]             |H    | Spinning heel kick[s]             |
+|                               |     | Spins from low position with heel |
+|                               |     | kicks to the head                 |
+|                               |     | If Sarah does one kick, she will  |
+|                               |     | face her back on the opponent     |
+|                               |     | Sarah changes feet position after |
+|                               |     | two kicks                         |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |M    | Downward backfist                 |
+\===============================+=====+===================================/
+
+     +===========================================+
+     |SARAH'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+==========+========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |H    | Dodge and punch                   |
+\===============================+=====+===================================/
+
+     +====================================+
+     |SARAH'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+===+===============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Belly suplex                      |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |B    | Torso takedown                    |
++-------------------------------+-----+-----------------------------------+
+| for, for+P                    |H    | Jumping clothesline AKA Bulldog   |
+\===============================+=====+===================================/
+
+     +======================================+
+     |SARAH'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+=====+=============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| for/down+K                    |NA   | Kick                              |
+|                               |     | Kicks fallen opponent             |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Low jumping knee hammer           |
+|                               |     |                                   |
+| UP+K                          |NA   | High jumping knee hammer          |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+JACKY BRYANT
+============
+ Date of Birth: 28 August 1970
+           Sex: Male
+    Blood type: A
+           Job: Indy car racer
+         Hobby: Training
+   Nationality: USA
+Fighting style: Sekken-Do/Jeet Kune Do
+
+     +================================+
+     |JACKY'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+-----+=====+=============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HHH  | Running punches, [hook]           |
+|                               |     |                                   |
+| P, K                          |     | 2 different kicks according to    |
+|                               |     | range.                            |
+|                               |HM   | Near: Punch and side kick         |
+|                               |HH   | Far : Punch and crescent          |
+|                               |     |                                   |
+| P, down+K                     |HL   | Punch and sweep                   |
+|                               |     |                                   |
+| P, P, K                       |HHH  | 2 punches and straight kick       |
+|                               |     |                                   |
+| P, P, for+P, [K]              |HHMn | 2 punches, elbow, [heel kick]     |
+|                               |     |                                   |
+| P, P, back+P, [K]             |HHHH | 2 punches, spinning backfist,     |
+|                               |     | [crescent]                        |
+|                               |     |                                   |
+| P, P, back+P, [down+K]        |HHHL | 2 punches, spinning backfist,     |
+|                               |     | [sweep]                           |
++-------------------------------+-----+-----------------------------------+
+| back+P, [P]                   |HH   | Spinning backfist [double]        |
+|                               |     |                                   |
+| back+P, K                     |HH   | Backfist, crescent                |
+|                               |     | Jacky changes feet position after |
+|                               |     | this move                         |
+|                               |     |                                   |
+| back+P, down+K                |HL   | Backfist, sweep                   |
+|                               |     | Jacky changes feet position after |
+|                               |     | this move                         |
+|                               |     |                                   |
+| back+P, back/down+P           |HL   | Backfist, low backfist            |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |M    | Elbow strike                      |
+|                               |     |                                   |
+| for+P, K                      |Mn   | Elbow-heel kick combo             |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |L    | Low spinning backfist             |
+|                               |     |                                   |
+| back/down+P, K                |LL   | Low spinning backfist-sweep       |
++-------------------------------+-----+-----------------------------------+
+| for+K                         |M    | Knee                              |
+|                               |     | Jacky changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back/up+K                     |M    | Kickflip                          |
++-------------------------------+-----+-----------------------------------+
+| back/up, [back/fup+K]         |OM   | Backflip, [flipkick]              |
++-------------------------------+-----+-----------------------------------+
+| down+K                        |M    | Toe kick                          |
++-------------------------------+-----+-----------------------------------+
+| for, for+K                    |M    | Punt kick                         |
++-------------------------------+-----+-----------------------------------+
+| K+D, [down+K+D]               |H    | Crescent, [sweep]                 |
++-------------------------------+-----+-----------------------------------+
+| DOWN+K+D                      |L    | Crouching side kick               |
++-------------------------------+-----+-----------------------------------+
+| K, K                          |HM   | Kick and heel kick                |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |M    | Hook                              |
++-------------------------------+-----+-----------------------------------+
+| back+K                        |M    | Side hook kick                    |
+|                               |     | Jacky skips forward with a        |
+|                               |     | downward heel kick like in TKD    |
++-------------------------------+-----+-----------------------------------+
+| P+K                           |M    | Beat knuckle AKA Bitch slap       |
+|                               |     | A long range smashing hook        |
++-------------------------------+-----+-----------------------------------+
+| down+P+K, [K, K, K, K]        |MHHHH| Lightning kicks                   |
+|                               |     | Modified shadow kicks             |
+|                               |     | After the down+P+K motion, tap Ks |
+|                               |     | in a sustained rate DO NOT RUSH   |
+|                               |     | Jacky coolly lowers his leg and   |
+|                               |     | shuffles his feet after 5 kicks   |
++-------------------------------+-----+-----------------------------------+
+| back, for+K+D                 |M    | Low spinning kick                 |
+|                               |     | Jacky gyrates his hips if this    |
+|                               |     | move hits                         |
+|                               |     | Jacky changes feet position after |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back, back+P                  |H    | Spin around backfist              |
+|                               |     | A spinning backfist away from     |
+|                               |     | the opponent                      |
++-------------------------------+-----+-----------------------------------+
+| back, back+K                  |H    | Spin around crescent kick         |
+|                               |     | A spinning half crescent away     |
+|                               |     | from the opponent                 |
+|                               |     | Jacky skips and does fancy foot-  |
+|                               |     | work if this move hits while he   |
+|                               |     | turns to face opponent            |
+\===============================+=====+===================================/
+
+     +====================================+
+     |JACKY'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+===+===============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Brainbuster                       |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |B    | Backside clothesline AKA Faceplant|
++-------------------------------+-----+-----------------------------------+
+| for, for+P                    |H    | Jumping clothesline AKA Bulldog   |
++-------------------------------+-----+-----------------------------------+
+| down, down/for, K, K          |MM   | Toe kick, side kick               |
+|                               |     | Do not rush tapping the Ks        |
+|                               |     | A very difficult and fickle move  |
++-------------------------------+-----+-----------------------------------+
+| back+P+K                      |H    | Trip and hammer                   |
+|                               |     | Sidesteps to trip opponent by     |
+|                               |     | executing a double fist hammer on |
+|                               |     | opponent's back                   |
+|                               |     | Jacky changes feet position after |
+|                               |     | this move                         |
+\===============================+=====+===================================/
+
+     +======================================+
+     |JACKY'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+=====+=============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+|  for/down+K                   |NA   | Kick                              |
+|                               |     | Kicks fallen opponent             |
++-------------------------------+-----+-----------------------------------+
+|  up+P                         |NA   | Low jumping knee hammer           |
+|                               |     |                                   |
+|  UP+K                         |NA   | High jumping knee hammer          |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+SHUN DI
+=======
+ Date of Birth: 2nd January 1912
+           Sex: Male
+    Blood type: O
+           Job: Herbal doctor
+         Hobby: Collecting the medicinal herbs
+   Nationality: China
+Fighting style: Sui-ken/Drunken Fist
+
+     +===============================+
+     |SHUN'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+----++===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, P, [P]                     |HMM  | Punch and uppercuts               |
+|                               |     | Shun changes feet position after  |
+|                               |     | the first and second uppercuts    |
+|                               |     |                                   |
+| P, K                          |HH   | Punch, kick combo                 |
++-------------------------------+-----+-----------------------------------+
+| down/for+P                    |M    | Uppercut                          |
+|                               |     |                                   |
+| DOWN/FOR+P                    |M    | Dashing uppercut                  |
+|                               |     |                                   |
+| down, for+P                   |M    | Lunging punch                     |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |HHH  | Running punches                   |
++-------------------------------+-----+-----------------------------------+
+| back/down+P                   |L    | Back push                         |
++-------------------------------+-----+-----------------------------------+
+| down+K+D                      |M    | Scorpion kick                     |
+|                               |     | Shun will do a handstand and      |
+|                               |     | execute a heel kick that hits the |
+|                               |     | top of the opponents head         |
++-------------------------------+-----+-----------------------------------+
+| back, back+K                  |H    | Turning akimbo kick               |
+|                               |     | Turns around arms akimbo and kicks|
++-------------------------------+-----+-----------------------------------+
+| back, back+P                  |H    | Turning punch                     |
+|                               |     | Turns around with a punch to face |
+|                               |     | back on opponent                  |
++-------------------------------+-----+-----------------------------------+
+| back+P                        |H    | Twisting back hook fist           |
++-------------------------------+-----+-----------------------------------+
+| back+K                        |H    | Kick and fall with back down      |
++-------------------------------+-----+-----------------------------------+
+| back/up                       |O    | Backflip                          |
++-------------------------------+-----+-----------------------------------+
+| for, for+K                    |M    | Forward cartwheel kick            |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |M    | Turning back hammer               |
+|                               |     | Jumps up and turns to fall with a |
+|                               |     | back hammer                       |
+|                               |     | Shun changes feet position after  |
+|                               |     | this move                         |
+|                               |     |                                   |
+| back/up+P                     |M    | Turning back hammer               |
+|                               |     | Same as above but jump away       |
++-------------------------------+-----+-----------------------------------+
+| up+K                          |H    | Mule kick                         |
++-------------------------------+-----+-----------------------------------+
+| up/for+K                      |M    | Spinning scissors kick            |
+|                               |     | Shun leaps into the air to do a   |
+|                               |     | spinning scissors like kick       |
++-------------------------------+-----+-----------------------------------+
+| up/for+P                      |M    | Spinning twist punch              |
+|                               |     | Shun leaps into the air twisting  |
+|                               |     | to hit with fists                 |
++-------------------------------+-----+-----------------------------------+
+| K+D, [P]                      |HM   | Jumping spin kick, [sideways two- |
+|                               |     | hand push]                        |
+|                               |     | Jumps, spins, arms akimbo and     |
+|                               |     | kicks                             |
+|                               |     | Tap P the moment he recovers from |
+|                               |     | jumping spin kick for the push    |
++-------------------------------+-----+-----------------------------------+
+| P+K                           |M    | Upside down backhand push         |
+|                               |     | Shun drinks when this move hits   |
+|                               |     | Shun changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| DOWN+K+D                      |L    | Breakdance sweep                  |
+|                               |     | Shun changes feet position after  |
+|                               |     | this move                         |
+|                               |     |                                   |
+| down+P+K, [K], [K]            |LLL  | Breakdance sweeps                 |
+|                               |     | Will only work if Shun drinks from|
+|                               |     | successful P+K or P+D             |
+|                               |     | 2 drinks from a round, Shun can do|
+|                               |     | 2 sweeps continuously, 3 drinks   |
+|                               |     | and he can do 3 sweeps            |
+|                               |     |                                   |
+| back/down+K+D                 |L    | Long range breakdance sweep       |
++-------------------------------+-----+-----------------------------------+
+| back+K+D                      |H    | Hopping kicks                     |
+|                               |     | Shun takes three hops backward    |
+|                               |     | kicking                           |
++-------------------------------+-----+-----------------------------------+
+| for, SCR, back [K]            |OH   | Handstand                         |
+|                               |     | Tapping kick will produce         |
+|                               |     | upside down kicks. for, for to hop|
+|                               |     | forwards and back, back to hop    |
+|                               |     | backwards                         |
++-------------------------------+-----+-----------------------------------+
+| back/down+K, [K]              |MH   | Turning twist kick[s]             |
+|                               |     |                                   |
+| back/down+K, K+D              |MH   | One twist kick and a jumping spin |
+|                               |     | kick                              |
++-------------------------------+-----+-----------------------------------+
+| back/down, back/down+K, [K]   |HH   | Falling turning twist kick[s]     |
+|                               |     | Similar to back/down+K but falls  |
+|                               |     | flat on his face after one kick or|
+|                               |     | on his back if he does two kicks  |
++-------------------------------+-----+-----------------------------------+
+| down, down, [K]               |OL   | Sit down [low kick]               |
+|                               |     | Defensive maneuver against mid-   |
+|                               |     | level and low-level attacks. Will |
+|                               |     | not defend against toe kicks, punt|
+|                               |     | kicks, kickflips and throws       |
+|                               |     | against low opponents             |
+\===============================+=====+===================================/
+
+     +==========================================+
+     |SHUN'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+=========+=========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| back/down+D                   |O    | Side steps backwards              |
+|                               |     |                                   |
+| back/down+D, P                |OH   | Side steps backwards and does     |
+|                               |     | Dances with Punches               |
+|                               |     |                                   |
+| back/down+D, P+K              |OM   | Side steps backwards and does     |
+|                               |     | Upside-down backhand push         |
+|                               |     |                                   |
+| back/down+D, K                |OM   | Side steps backwards and does     |
+|                               |     | Scorpion kick                     |
++-------------------------------+-----+-----------------------------------+
+| for/down+D                    |O    | Side steps forwards               |
+|                               |     |                                   |
+| for/down+D, P                 |OH   | Side steps forwards and does      |
+|                               |     | Dances with Punches               |
+|                               |     |                                   |
+| for/down+D, K                 |OM   | Side steps forwards and does      |
+|                               |     | Scorpion kick                     |
++-------------------------------+-----+-----------------------------------+
+| back+D                        |O    | Shun skips backwards tucking in   |
+|                               |     | his tummy                         |
+|                               |     |                                   |
+| back+D, P                     |OH   | Skips backwards and does          |
+|                               |     | Dances with Punches               |
+\===============================+=====+===================================/
+
+     +===================================+
+     |SHUN'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+==+================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Dances with Punches               |
+|                               |     | Twirls around opponent punching   |
+|                               |     | Shun drinks after this move       |
+|                               |     | This move hits harder the more    |
+|                               |     | he drinks in a round              |
++-------------------------------+-----+-----------------------------------+
+| All                           |H    | Grab and fall                     |
+|                               |     | Grab and twists arm then fall back|
+|                               |     | elbowing opponent as he falls     |
+\===============================+=====+===================================/
+
+     +=====================================+
+     |SHUN'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+==+================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Cartwheel heel smash              |
+|                               |     | Cartwheels forward and smashes    |
+|                               |     | heel on opponent                  |
+|                               |     |                                   |
+| UP+P                          |NA   | Roll and elbow drop               |
+|                               |     | Rolls towards fallen opponent and |
+|                               |     | performs elbow drop               |
+\===============================+=====+===================================/
+
+--------------------------------------------------------------------------
+
+LION RAFALE
+===========
+ Date of Birth: 24th December 1979
+           Sex: Male
+    Blood type: AB
+           Job: High school student
+         Hobby: Collecting knives
+   Nationality: France
+Fighting style: Toru-ken/Mantis Fist
+
+     +===============================+
+     |LION'S SPECIAL MOVES AND COMBOS|
+/====+--------------------------+----++===================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P, [P], [P]                   |HHH  | Punch, [thrust], [backfist]       |
+|                               |     | Lion changes feet position after  |
+|                               |     | the thrust and backfist           |
+|                               |     |                                   |
+| P, K                          |HH   | Punch, kick combo                 |
++-------------------------------+-----+-----------------------------------+
+| for+P                         |M    | Elbow strike                      |
++-------------------------------+-----+-----------------------------------+
+| for+K                         |M    | Knee                              |
+|                               |     | Lion changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| down/for+P, [P]               |Mn   | Uppercut, [downward swipe]        |
++-------------------------------+-----+-----------------------------------+
+| FOR/DOWN+P, [P]               |LL   | Creeping peck[s]                  |
+|                               |     | Creeps forwards poking at legs    |
++-------------------------------+-----+-----------------------------------+
+| back/down+P, [P]              |LL   | Low thrusting peck[s]             |
+|                               |     | Reaches out and pokes low         |
++-------------------------------+-----+-----------------------------------+
+| for, for+P                    |M    | Long range fist thrust            |
++-------------------------------+-----+-----------------------------------+
+| for, for+K+D                  |M    | Spin forward and kick high        |
+|                               |     | Lion changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| down/for+K+D                  |L    | Spin forward and kick low         |
+|                               |     | Lion changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back+P                        |H    | Standing wind-up attack           |
+|                               |     | Winds up and attacks with both    |
+|                               |     | fists                             |
++-------------------------------+-----+-----------------------------------+
+| for+P+D                       |H    | Poke head                         |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |L    | Short range low wind-up attack    |
+|                               |     | Spins and strikes legs with       |
+|                               |     | fists                             |
++-------------------------------+-----+-----------------------------------+
+| down/for+P+D                  |L    | Long range low wind-up attack     |
+|                               |     | Spins and strikes legs with       |
+|                               |     | fists                             |
++-------------------------------+-----+-----------------------------------+
+| DOWN+K+D                      |L    | Sweep                             |
++-------------------------------+-----+-----------------------------------+
+| up+K, [K]                     |MH   | Dancing kick[s]                   |
+|                               |     | Lion changes feet position after  |
+|                               |     | the second kick                   |
++-------------------------------+-----+-----------------------------------+
+| down, down+K                  |M    | One-handstand kicks               |
++-------------------------------+-----+-----------------------------------+
+| up/for+K                      |M    | Cartwheel spin kick               |
+|                               |     | Lion changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| up/for+P                      |M    | Jumping downward swipe            |
+|                               |     | Lion changes feet position after  |
+|                               |     | this move                         |
+|                               |     |                                   |
+| back/up+P                     |M    | Jumping downward swipe            |
+|                               |     | Same as above but jumps backwards |
++-------------------------------+-----+-----------------------------------+
+| back/up                       |O    | Cartwheel backwards               |
++-------------------------------+-----+-----------------------------------+
+| down+K, [K]                   |LL   | Low swipe kicks                   |
+|                               |     | Lion changes feet position after  |
+|                               |     | the first low swipe kick          |
+|                               |     |                                   |
+| down+K, K+D                   |LH   | Low swipe kick, high spin kick    |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |H    | Swinging arms                     |
+|                               |     | Spins with arms extended          |
+|                               |     | Lion changes feet position after  |
+|                               |     | this move                         |
++-------------------------------+-----+-----------------------------------+
+| back, back+K                  |H    | Turn kick                         |
+|                               |     | Kicks and turns away              |
++-------------------------------+-----+-----------------------------------+
+| back, back+P                  |H    | Turn punch                        |
+|                               |     | Punches and turns away            |
++-------------------------------+-----+-----------------------------------+
+| back, back+K+D                |M    | Turn with jump kick               |
+|                               |     | Jump kicks and turns away         |
+\===============================+=====+===================================/
+
+     +==========================================+
+     |LION'S COUNTER-ATTACKS AND DEFENSIVE MOVES|
+/====+--------------------------+-----+=========+=========================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| back/down+D                   |O    | Ducks and steps away sideways     |
++-------------------------------+-----+-----------------------------------+
+| for/down+D                    |O    | Ducks and closes in               |
++-------------------------------+-----+-----------------------------------+
+| back+D, for+P                 |H    | Spinning high counter-attack      |
+|                               |     | Spins to opponents side hitting   |
+|                               |     | with fists and elbow for damage   |
+|                               |     | You can get this out even if the  |
+|                               |     | the opponent isn't attacking      |
+|                               |     |                                   |
+| back+D, down/for+P            |L    | Spinning low counter-attack       |
+|                               |     | Spins to opponents side hitting   |
+|                               |     | low with fists to trip opponent   |
+|                               |     | You can get this out even if the  |
+|                               |     | the opponent isn't attacking      |
+\===============================+=====+===================================/
+
+     +===================================+
+     |LION'S THROWS AND CLOSE RANGE MOVES|
+/====+--------------------------+-----+==+================================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |H    | Trip                              |
+|                               |     | One arm pushes chest, the other   |
+|                               |     | pushes abdomen, leg kicks to trip |
++-------------------------------+-----+-----------------------------------+
+| P+D                           |B    | Piggyback attack                  |
+|                               |     | Mounts on opponent piggyback and  |
+|                               |     | attacks neck                      |
++-------------------------------+-----+-----------------------------------+
+| back+P+K                      |H    | Reaping throw                     |
+|                               |     | One hand grabs wrist, the other   |
+|                               |     | pushes neck, leg kicks to trip    |
++-------------------------------+-----+-----------------------------------+
+| for, for+P+D                  |H    | Grab and fling                    |
+|                               |     | Grabs opponents arm and flings    |
+|                               |     | opponent away                     |
++-------------------------------+-----+-----------------------------------+
+| for, SCR, back+P+D            |H    | Frontal piggyback attack          |
+|                               |     | Jumps onto opponent and attacks   |
+|                               |     | neck                              |
+\===============================+=====+===================================/
+
+     +=====================================+
+     |LION'S MOVES AGAINST FALLEN OPPONENTS|
+/====+--------------------------+-----+====+==============================\
+| Control Motions               |Level| Description/Comments              |
++-------------------------------+-----+-----------------------------------+
+| up+P                          |NA   | Short range heel smash            |
+|                               |     | Most likely to miss at close range|
+|                               |     |                                   |
+| UP+P                          |NA   | Cartwheel heel smash              |
+|                               |     | Cartwheels forwards in the air and|
+|                               |     | smashes heel on opponent          |
+\===============================+=====+===================================/
+
++=========+
+|OPERATION|
++=========+
+Before we start, on fighting techniques, below is the basic operation in VF.
+
+    +========================+
+    |SELECTING YOUR CHARACTER|
+    +========================+
+    Just highlight your character and tap P, K or D. 
+
+    To select alternate colors of the character, hold the joystick up and
+    tap the buttons. 
+
+    +=======+
+    |REPLAYS|
+    +=======+    
+    After a set, a replay will take place. If you find that the replay is
+    irritating, may bypass it by tapping the START button. Be careful to tap
+    your own player start button. If someone has put in some tokens and you
+    tap the other player button, you have accidently forced someone to play
+    against you or worse challenged yourself as the tokens inside are yours. 
+
+    There is more you can do during the replays and this will be covered in
+    the EASTER EGGS section
+
++====================+
+|CONTROLLER TECHNIQUE|
++====================+
+The new boxes that are used for VF2 are now standard. The button positions
+form some form of circular arc which aid your fighting technique if you
+position for fingers properly. 
+
+    +========+
+    |JOYSTICK|
+    +========+
+    The joystick is best held rather loosely. The are 3 main ways to hold the
+    joystick in VF: 
+
+    1. Thumb and fingertips: Very much the same as you would hold an
+    eyedropper. It gives somewhat firm control for the diagonal movements.
+    Good response for taps in any direction using thumb or fingertips.
+    Recommended technique. 
+
+    2. Engulfing: The ball on the stick is completely grasped into a fist.
+    This is not recommended though some have found this technique comfortable
+    for rolling actions in Akira's Dashing Palm or Wolf's Twirl and Hurl. 
+
+    3. In-between: The stick is in-between the index finger and the middle
+    finger with palm facing upwards. Great control over up, down, forward and
+    back motions but lends poor control over diagonals. I've seen this
+    technique in one person who has tiny hands. So it is recommended for
+    people with little hands I think. 
+
+    4. Situational: The use of 2 or all of the above techniques as the
+    situation demands. 
+
+    +=======+
+    |BUTTONS|
+    +=======+
+    The recommended technique is to use 3 digits for each of the buttons.
+    Personally, I think switching from button to button using a finger is
+    rather ineffecient though it is possible in VF1. In VF2 the moves
+    especially the elbow-knee and elbow-heel kick combo of the Bryants
+    require you to be fast. The recommended finger positioning is: 
+
+    Defend: Thumb
+    Punch : Index finger
+    Kick  : Middle finger
+
+    An alternate way for big hands is:
+
+    Defend: Index finger
+    Punch : Middle finger
+    Kick  : Ring finger
+
++===============+
+|ROUNDS AND SETS|
++===============+
+The action is VF is divided into rounds. In each round, you would spar the
+opposing character. Each round is further divided into sets. Depending how
+your arcade manager setups the box, rounds can be divided into 2/3, 3/5,
+4/7 or 5/9 sets. 
+
++======================+
+|VERSUS COMPUTER COMBAT|
++======================+
+If you choose to fight with the computer, the opponents follow in the 
+order below:
+
+Lau
+Sarah
+Shun
+Pai
+Lion
+Jeffry
+Kage
+Jacky
+Wolf
+Akira
+Dural
+
+The last fight which is a bonus stage is a battle between your character 
+and Dural. This takes place underwater amongst the ruins of the sunken 
+city of Atlantis. Action is in slow motion due to fluid viscosity.
+
+    +============+
+    |RANKING MODE|
+    +============+
+    If you choose to fight against computer controlled opponents, you may 
+    invoke the "ranking mode". This allows the computer to grade your 
+    fighting skills. Upon completion of the game (beating Akira but not 
+    necessarily Dural), the computer gives recommendations to improve 
+    your technique. However, if you get beaten halfway through, a grade 
+    will only be given.
+
+    If someone challenges you to a duel, ranking mode is not cancelled if
+    you defeat the challenger. You cannot continue ranking mode if you are
+    defeated by the computer.
+
+    To invoke ranking mode, tap all three buttons and press start together.
+    Current observations seem to suggest that the computer awards more 
+    points for:
+
+    1.	Floating your opponents.
+
+    2.	Behind throws.
+
+    You can beat all computer opponents easily by just throwing, but what 
+    you get would just be 9th grade.
+
++======================+
+|ENTERING YOUR INITIALS|
++======================+
+There is some general confusion in entering your initials. Actually it is
+rather simple. Just hold the D button and move the joystick left or right
+to select the character. The trick is to look at the characters changing
+at the bottom of the screen. Once highlighted, release Defend and run
+towards the character. You are to knock the character down and not just
+hit it to get it entered. Once a character is entered, you can erase it
+with a backspace by highlighting the backspace. Be careful and quick when
+entering the characters. You have 30 seconds to do this only. 
+
+You can only enter your initials after you beat Akira and made it to the 
+op 20 fastest completion times. Beating Dural is optional.
+
++============+
+|SUDDEN DEATH|
++============+
+If the last deciding round happens to be a draw, the game goes to sudden
+death where the fight takes place on a ring which size is 1/16th of the
+original. The object is to mainly RO the opponent as a decider for that
+round. If the sudden death is a draw, the challenger is the loser. If you
+are playing against the computer, the player loses if a draw happens;
+which is most unlikely. 
+
++===========================+
+|GENERAL FIGHTING TECHNIQUES|
++===========================+
+This part covers some basic fighting techniques in VF2. Please note that
+VF2 is still a ground based game. SEGA has made air attacks in this game
+fairly worthless. Though now with increased speed, aerial attacks are
+still rather quite slow. Hopping attack speeds are however improved, so
+they are now more useful. To make matters worse for jump kickers from VF1,
+computer controlled opponents are able to return a jump kick to your
+character once a jump kick is missed. 
+
+The guide below is just a basic guide. Most are borrowed from the VF1 FAQ.
+It is by no means a formula to successful VFing. A flexible fighting
+technique is needed for human versus human fights. This is also required
+for versus computer fights since the computer now remembers the moves that
+are successfully used against it and will defend itself against these same
+attacks. 
+
+Now then, the techniques... 
+
++================+
+|A FLURRY OF JABS|
++================+
+By simply tapping the punch button repeatedly, your character, whomever he
+(or she) may be, will step forward and punch as they go.  They will punch
+2-3 times and then pause for a second before they can begin to attack
+again.
+
+Works good...
+
+*   when your enemy has very little life left
+*   when your enemy is close to the edge of the ring (to get a RO)
+*   sometimes to start the round out with
+*   if they are in the air, you can usually hit them with an attack, and
+    follow that up with two or three punches before they hit the ground
+    Jeffry, Lau, and Wolf can tag on their uppercut/knife hand to make a more
+    deadly combo whenever they catch someone in the air with a punch or a 
+    kick if you tag on the kick part of their combos
+
+
+Works bad...
+
+*   if you use it too much and the opponent counters with a low attack
+
++===============+
+|HOPPING ATTACKS|
++===============+
+With the increased speed in VF2, hopping attacks can be used to counter
+low attacks. Very useful against opponents who are getting up to sweep
+you. Hop kicks are useful against low defenders though they are quite weak
+in terms of damage inflicted. Hopping hammers and jabs inflict heavy
+damage. However, they cannot attack low or standing defenders. They are
+more useful at close range when a low attack is expected. 
+
+Some characters' hopping kicks are just pure deception. Kage, Lau, Shun 
+and Lion have toe slides or sweeps in place of a hop kick. This can be 
+achieved by tapping K while descending from the hop.
+
++===============+
+|JUMPING ATTACKS|
++===============+
+Jumping and kicking immediately works well if they are really close to
+you. You can catch them off guard if they are closing in with a fury of
+jabs. 
+
+This attack also hits a low defenders. Therefore it is very valuable to
+people who don't have many other attacks which can hit a squatting opponent.
+
+If they aren't close, then you have three options.
+
+     +==================+
+     |DISTANCE DROP KICK|
+     +==================+
+     Has deceptive range.  Probably the best distance attack.  You must
+     hit the kick button before you reach the peak of your jump.  You can 
+     only be hit out of it if your opponent does a close jumping kick before 
+     your kick comes out and that is a very hard move to time (of which the 
+     computer opponents do so well). This works well as an ambush attack 
+     as well. As an opponent closes in with punches, jump overhead him 
+     and drop kick him from behind since defend does not work for attacks 
+     behind. 
+
+     +=============+
+     |LANDING KICKS|
+     +=============+
+     If you hit the kick when descending from a jump, you will kick before
+     you land. This does have benefits as you can surprise someone who 
+     thinks you are easy meat after a failed jumping attack.
+     
+     +===============+
+     |OVERHEAD HAMMER|
+     +===============+
+     You need to hit the punch button before you reach the peak of your
+     jump. Better than the mid air kick, but not as good as the drop kick.
+
+VF2 allows you to have two jumping attacks per jump. It may surprise many
+who do not know this. However, do not be complacent. Jumping kicks are
+still desperation moves and recovery from a jumping attack is slow leaving
+you vulnerable to any attack or worse, a throw. 
+
++========+
+|RING OUT|
++========+
+Knocking your opponent out of the ring is a perfectly legitimate way to
+win a set.  The simplest way to accomplish this is, when they are close to
+the edge, to use a fury of jabs or a sweep since these attacks will push
+them backwards even if they defend. Squatting kicks are rather good too as
+your character will skip forwards for the kick.
+
+Note that Kage's flying kick pushes people back very far, and that Wolf's
+spinning throw can throw the person out of the ring if you are lucky for
+that, try to have your back to the edge since that is the direction that
+he finally lets them fly. Akira's close-in ram can knock lighter opponents
+like Lion, Sarah and Pai out of the ring from just off the center of the
+ring. Jeffry's flying butt attack is to push people out too.
+
++======================+
+|WAITING FOR YOUR BREAK|
++======================+
+One of the more successful defenses can be to simply just crouch and sit
+below your opponents attacks until they pause in their attack.  You can
+then counter with one of the following. 
+
+     * a power move -- like Kage's heel kick, Wolf's Shoulder Ram or
+       Akira's double motion snap kick.
+
+     * a throw -- just perform the motion for the throw you would like to
+       do. Characters are easy targets for throws while they recover from 
+       moves such as high kicks and missed pounces and jumps. 
+
+     * a combo or combination attack -- like Jacky's elbow-heel kick combo
+       or Sarah's elbow-knee combo
+
++===========================+
+|DODGING AND COUNTER-ATTACKS|
++===========================+
+With the increased speed in VF2, you can execute dodges and
+counter-attacks at a moments notice. Most characters have a dodge and
+punch move or some sort of counter-attack equivalent to Pai's defensive
+grab. 
+
+There are many ways you can counter-attack. Everytime you see an attack
+coming, just back off and retaliate while the opposing character recovers.
+Just be imaginative. For example, backward kickflips duck under many
+punches. Use this to your advantage. 
+
+In the case of those defensive grabs. It is best to set up your opponent
+to make that crucial move you want them to make. On purpose in previous
+sets, make yourself vulnerable to a particular move like a side kick or
+punch for a certain situation. Then present this same situation to them
+and grab their attack. It is all up to your head to set up the "sting". An
+example would be to present yourself as vulnerable after Akira's dashing
+elbow to punch-kick combos. Then after a set, do a dashing elbow, hold D
+then back+P when you know the opponent's punch is incoming. This is what
+they mean by using these counter-attacks with finesse. This applies to all
+characters with a defensive counter-attack. 
+
++======================+
+|ATTACKING WHILE RISING|
++======================+
+When an opponent knocks you down, you can get up with an attack. There are
+many ways to do it thus giving you many variations. Rising attacks
+depending on how they are executed will hit either low or standing
+defenders. However, a missed rising attack with an opponent nearby spells
+a free attack on your character. It is wiser to use the rolling away
+attacks as they get you away from the action and discourages throws from
+players that follow you through the roll hoping for a free throw. 
+
+All characters are vulnerable to rising attacks after a missed pounce. If
+your opponent plays a character that misses most of his pounces like Wolf
+and Jeffry, do a rising attack. 
+
+Do not do too many rising attacks as most experienced players would rather
+back off after a successful attack. Players with characters that have some
+form of long distance attack like Kage (Flying kick) or Sarah (Toe kick
+and side kick) would take the opportunity to attack from a distance with
+these moves. Be careful when you get up or you may find yourself trying to
+get up again. 
+
+Countering rising attacks now are more difficult. However, if your
+opponent gets a bit too predictable, you can: 
+
+     * do a hopping attack in response to any sweep. Hopping hammers and
+       jabs are good as they do the most damage.
+
+     * defend in response to a kick or sweep. Attack them with your best
+       depending on how they respond. If they defend, throw them. If they 
+       think they can sneak some additional attacks after a missed rising 
+       attack, muster your best attack against them. 
+
+Getting a bit too predictable can be a psychological weapon as well. Do
+rising attacks different from previous attacks to make your opponent think
+he's got you figured out. 
+
+Sometimes do an attack that allows you to fall flat on the ground. Shun's
+attacks are a fine example. Falling flat on the ground after an attack
+tempts your opponent to come closer especially for an opportunistic throw.
+Kick or sweep them as they come near since recovery from such moves are
+faster. This may be dangerous as characters now can kick or punch
+opponents on the ground. 
+
++==========================+
+|HIT 'EM WHILE THEY'RE DOWN|
++==========================+
+NEARLY every time you knock your opponent down you should try for a
+pounce. 
+
+Pounce ranges in VF2 are much shorter that in VF1. Sarah and Kage do not
+have unlimited pounce ranges anymore. The motions for pounces (up+P) can
+be done the moment your opponent starts falling. You can also time your
+pounces to hit someone trying to get up. The damage is even more severe in
+this case. Imagine Jeffry's entire butt landing on your head! 
+
+On top of pouncing, characters can use alternative attacks against fallen
+opponents. Kicks, punches to the ground, elbow drops are some of the few.
+They are fast and rather efficient. These attacks will not keep the
+opponent on the ground for long. Each kick or punch will move them
+further away from your character, therefore each subsequent attack can
+fail opening you up for a rising attack. At most get two of these attacks
+in and back off. The motion for these attacks like pounces can be done
+when the opponent starts falling. However, these alternative moves
+require you to be close to the fallen opponent to connect. 
+
++============+
+|KICKFLIPPING|
++============+
+All the characters except for Akira, Jeffry, and Wolf can backflip. Those
+who can backflip can do a type of attack called kickflipping, which is a
+high backwards flip in which the legs can hit the opponent and do major
+damage besides looking just totally cool. Lion does not backflip but
+cartwheels. Shun is able to backflip but does not have a kickflip.
+
+There are two kinds of kickflips. Backward kickflips and kickflips. In
+backward kickflips, the exponent backflips doing a handstand and kicks as
+he/she is flipping backwards. Kickflips are performed as the exponent
+kicks into the air and flips without ground contact until landing.
+Backward kickflips and kickflips hits opponents jumping in though
+kickflips gain more altitude thus giving a higher chance of a successful
+hit. 
+
+Only Pai, Lau, Kage, Sarah and Jacky have kickflips. Of the five, Jacky
+does not have a kickflip combo. Kage has two different kickflips at his
+disposal. 
+
+All kickflips and their combos hit low defenders which is a feature not 
+seen in VF1.
+
++====================+
+|TURNING AROUND MOVES|
++====================+
+These moves are new and cool in VF2. Most fast characters have attacks
+that turn them around to face their back at the opponent. These attacks
+can be used in conjunction with turn around and face opponent attacks.
+This opens up new opportunities for positional play. To play this way, one
+must have a clear mind on the direction.
+
+If you choose to turn around with a punch, this turn around punch can be 
+executed as part of a punch combo. So these moves can be used to set up 
+ambushes and combos.
+
+The bad thing about this is that if you are caught with your back on an
+opponent, the end may be drawing near. 
+
+Control motions for turn around moves are "back, back+BUTTONS. To execute
+it properly, you MAY have to hold the second "back" motion. This is
+advantageous as you can tap the buttons twice to execute the same move
+twice. First to turn away from the opponent and the second to turn and
+face the opponent. This can be good for characters like Kage who has many
+turn around moves, he can have a combination of turn around moves. 
+
++===========+
+|HARRASSMENT|
++===========+
+Squatting and kick together will produce a harrassment kicks to the leg.
+These kicks are fast but are very weak. Their use as combo stoppers are
+good as they have a good reach. They can be used to attack an already
+weakened opponent for a KO. When used in conjunction with low punches,
+they can be a major source of irritation for combo maniacs. Low punches
+are good to set up for throws as well. All in all, low attacks are a major
+irritation to many. Lion's low swipe kicks are so good they are a special 
+move all by itself.
+
+Low punches and kicks can also be used to force an opponent to block low
+for major attacks against low defenders. Sarah's squatting kick is fast
+and if the defender blocks low for these kicks, her arsenal of attacks
+against low defenders can be unleashed. 
+
+Low punches and kicks are however not good if someone has you figured out.
+All characters have moves that attack characters staying low and all of
+them wreak tremendous havoc. Even Pai has a scissors kick that can spell
+trouble to anyone punching or kicking low. Jeffry and Wolf have throws
+that are very painful against low attackers who fail in their attacks. So,
+as much as possible, do not overuse these moves. 
+
++========+
+|AMBUSHES|
++========+
+Due to the fast pace of action in VF2, you may find yourself behind facing
+an opponents back. You can start combos or do behind throws from that
+position. To set yourself up behind an opponent can be pure chance or pure
+cunning as with Akira. His Surprise exchange pull and Backwards uppercut
+can be used to do an all important knock out move or ring out. 
+
+Also, distance drop kicks to the back can be achieved on rising opponents.
+This is a good ambush maneuver though very underhanded does the job pretty
+well. Just jump forward till you are overhead the rising opponent and drop
+kick his back. The timing and distance in this move is crucial. 
+
+If you do find yourself about to be ambushed from behind, you can:
+
+     * turn with an attack. This is particularly useful if someone wants
+       to throw you. Turning around with a low attack (down+K) is 
+       particularly useful.
+
+     * run. It is okay to run like a chicken at such a situation. Attacks
+       and throws from behind are devastating. It is the only way to escape 
+       from a drop kick from behind. 
+
+
++==============================+
+|PULLING BACK A KICK OR A PUNCH|
++==============================+
+To pull back a kick, press the kick button, and then press the D button
+before your kick has been raised above your knee. This works for punch too
+but you have to be faster. What you do after that is up to you, but your
+opponent will probably block. You can either throw them or attack them
+with a move that their defending position is vulnerable to. 
+
++====================+
+|DELAYED ACTION MOVES|
++====================+
+Combos and special moves that have many motions can be done with delayed
+action. A fine example is the P, P, P, K combos. Tap the three Ps quickly,
+then pause for a few milliseconds before tapping K. What you get is three
+punches, a short pause and the kick move. Lau players have been known to
+use this very often to fool opponents. Sarah and Jacky's elbow combos can
+do this too if you hold the joystick forward after the elbow before
+tapping K milliseconds later. There are many moves that can do this. 
+Discover these yourself. 
+
++==============================+
+|THROWING AND CLOSE RANGE MOVES|
++==============================+
+Throwing and other close range moves can only be done at punch range.
+Besides being close to the opponent, you have to have the correct foot
+positioning. Which is feet positioning that does not mirror the opponents.
+Your character's left foot if it is in front should correspond to the
+opposing character's right foot which is a step behind his left. So from
+top view it should look as: 
+
+             Character A      Character B
+
+                       X            X
+                  X           X
+
+This would present a throw opportunity if range permits. A throw can be
+done even when the feet positions mirror one another but it is just more
+difficult to get out. Depending on the type of throw, the control motions,
+especially "for, for" motions; throws can be done with incorrect feet
+positioning. Most characters have to run forward or perform foot changing
+moves to change feet positioning. 
+
+    +=======================+
+    |PUNCH THROW THECHNIQUES|
+    +=======================+
+    If an opponent tends to try to close distance with you by moving
+    forward, try punch and throwing him.  Do a single punch, crouching or 
+    standing, followed QUICKLY by the motion for the throw you want to 
+    do. If the punch connects, there is a good chance they will still be
+    in range for a throw. "Heavy" fighters, such as Jeffry and Wolf, are
+    particularly vulnerable, since the punch will hardly move them at all. 
+
+    The punch is fast enough to interrupt any attack the opponent may be
+    attempting, and the throw if done correctly will come out while they are
+    still reeling from the punch.  Even if the opponent blocks, the throw 
+    will connect so long as you are close enough. 
+
+    Typical Punch and Throw techniques are Kage's Punch and Toss (P, back+P),
+    Wolf's Punch and Twirl (P, back, SCR, for+P) and Lau's Punch and Head 
+    Slam (P, back, for+P). 
+
+    +===============+
+    |ESCAPING THROWS|
+    +===============+
+    You can escape all P+D throws and Jeffry's body press only. To escape 
+    from a P+D throw, tap P+D the moment the opponent begins to throw you.
+    To be extra sure, you can tap P+D continuously as the throw begins as
+    if you are getting up after being knocked down. What you do after
+    successfully escaping from the throw is up to you. Wolf's Backfall suplex
+    is particularly vulnerable to attacks as the the escapee falls upright
+    just behind him. 
+
+    You cannot escape from complex control motion throws and behind throws.
+    When throwing experienced opponents, it is best to use complex control
+    motion throws. However, P+D throws are given preference if both players
+    executes the throws at the same time. So it may be safe to use P+D throws
+    in some situations. Its all up to you. 
+
++==================+
+|HIT 'EM IN THE AIR|
++==================+
+Sometimes characters play a little hand-ball with their opponents by
+repeatedly punching, uppercutting and otherwise bouncing them along in the
+air. Lau is the true master of this technique, able to bounce opponents up
+to eight times in a single combination of moves. With the increased speed
+in VF2, almost all characters are able to do this better than in VF1. 
+
+There are many combination attacks that keep opponents in the air.
+Possible combinations are: 
+
+     * Knee and uppercuts for Jeffry
+     * Knee and running punches for Wolf
+     * Toss and flying kick for Kage
+     * Aerial jumping turn kick, rising knee combo and kickflip for Sarah
+     * Any attack from Shun followed by 3 breakdance sweeps
+     * Any of Lion's moves followed by his low swipe kicks
+
+The list goes on. Discover these yourself.
+
+A rule of thumb is to lower the height level of your attacks. Start out
+attacking high. If the opponent is hit, keep him in the air. As he/she
+starts falling, progress to mid level attacks, then finally to low level
+attacks. 
+
++================================+
+|DEVELOPING YOUR OWN COMBINATIONS|
++================================+
+You have to develop your own combinations. One lovely system to develop 
+combinations is what I call the "common joystick motion" system. For 
+example, let us take a look at Akira.
+
+Akira has a close range defense breaking move called the shake 'em up. 
+Its control motion is back+P+D. He also has a dashing body check and its
+motions are back, for, for+P+K. You can combine these two moves into a
+beautiful move because both share a common motion and that is back. So
+what you do is: 
+
+back+P+D, for, for+P+K
+
+This would effectively give you a shake 'em up to soften their defenses 
+and a dashing body check to the opponent.
+
+Here is another example you might consider. Again we will use Akira. There
+are 2 Akira moves that require him to stay low first and these are his
+dashing palm moves. So his combination can be developed as: 
+
+down+P or down+K, for+P for a low punch or kick followed by a palm.
+
+This works very well as Akira does not have any special move that have the
+motion of down+P or down+K. Effectively, you get a low kick or punch with
+this motion by tapping down and the respective buttons. This makes Akira
+squat first for the low punch or kick, then tap forward and punch for the
+single palm. There is no need to roll the stick forward. If you need a
+double palm, do a low punch or kick followed by back then forward and
+punch. 
+
+Just study your characters' moves and check out which moves have common
+motions. Develop your own combinations and have fun! 
+
++===============+
+|LISTEN AND LOOK|
++===============+
+Above all be alert. Listen for loud bangs from the speaker that signify a
+damaging hit that would knock the opponent out cold for some time. This
+would help you know when to pounce. Also, listen for powerful moves that
+make whistling noises. If they hit, the opponent is also knocked down cold
+for some time. Small "bish" noises usually signify a minor hit. Pouncing
+after this may land you into trouble. 
+
+Keep your eyes on the opposing character and judge the distances. Above
+all practice till the moves come out instinctively even without you
+looking at your character. 
+
++===========+
+|EASTER EGGS|
++===========+
+
+    +==================+
+    |SLOW MOTION REPLAY|
+    +==================+
+    If a particular finishing is funny, gross, painful, humiliating or
+    spectacular; you may opt for a slow motion replay. As you KO, RO or TO
+    your opponent, hold down all three buttons to effect the slow motion
+    replay option. You are only allowed one slow motion replay per entire
+    game.
+
+    +==============+
+    |VICTORY TAUNTS|
+    +==============+
+    Another nice touch to replays is the victory taunts and phrases. You 
+    can actually control what your character says. During the replay, 
+    hold down either P, K, or D to select the taunts. Win a set under ten 
+    seconds and your character will say the "below ten second taunt".
+
+    +=======================+
+    |GAME COMPLETION REPLAYS|
+    +=======================+
+    If you complete the game, the replays of all the stages will be played.
+    The trailing animation frame shadows for these replays can be controlled.
+    Tap All left player buttons to decrease the frames and the right player
+    buttons to increase the frames.
+
+    +================+
+    |KAGE'S FACE MASK|
+    +================+
+    Kage's face mask will only fall off if he wins 20 straight wins from
+    challengers. He has no scar on his cheek anymore and he is described as
+    rather handsome.
+
++====================+
+|MYSTERIES AND RUMORS|
++====================+
+If you would notice, the name of the character just below the lifebar will
+flash when certain moves from your character connects.
+
+There are rumors floating around saying Jeffry has a Skybreaker. This is a
+backbreaker done from a body press position. It is therefore different
+from his normal backbreaker or even his behind backbreaker. Any info is
+appreciated.
+
++===============+
+|CHARACTER GUIDE|
++===============+
+AKIRA YUKI
+==========
+Hakkyoku-ken, one of the foremost Chinese martial arts.
+
+During the Second World War, the Japanese arm developed their own 
+Hakkyoku-ken techniques to improve their infantry's fighting ability.
+
+Akira Yuki is the son of the man who developed these techniques. He 
+serves as the assistant instructor at Yuki Budokan. Hot-blooded and 
+impulsive by nature, he also can be naive and intemperate.
+
+After completing his training under his father's tutelage at the age of 
+23, he went on a quest to test his abilities.
+
+When he got word of this world championship fighting tournament, he 
+decided to enter
+
+Editor's Notes
+--------------
+According to rumors, SEGA wanted very much Akira to be the "star" 
+character of VF1. They didn't do very well and so Jacky became more or 
+less the star. This is attributed to the difficulty in using Akira as a 
+playing character in VF. They decided to make Akira stronger for VF2 as a 
+result. He is truly Mr Dynamite now.
+
+Eight Poles Fist actually stresses more on counter-attacks. If you look
+carefully at all of Akira's moves, they either require him to duck first
+(dashing palm) or attack low (dashing elbow). These are in a true essence
+aggressive counter-attacks. With the newly added counter-attack moves and
+defense breaking ability from Akira, he is in fact the most formidable
+character in VF2. 
+
+Fighting with Akira
+-------------------
+He has his main strength in his special moves and close range moves. 
+Almost all of those multi-punch and kick combos have be removed since not
+many people use them anyway. The speed of all his special attacks would
+more than compensate for this. Use them all to your advantage.
+
+Playing with Akira would mean pure aggressive play. The increased speed in
+VF2 would mean his special moves would come out faster. I have seen many
+Akira players do five continuous dashing elbows in a row to RO an
+opponent. Cheesy it may seem but that is the level of aggressiveness he
+should be played. 
+
+His close range moves are rather deceptive than powerful. Only his trip
+and punches; the pull in, throw out; and close-in ram can knock an
+opponent down.  The rest of the close range moves allow him for free
+strikes based on confusion created by these moves. The insidious surprise
+exchange is a good example. 
+
+Though Akira is fast in his attacks, the recovery from these attacks are 
+slow. The notorious dashing body check is the slowest in its recovery and 
+exposes Akira's back to the opponent momentarily. However, he has his 
+counter-attacks to make up for this. These counter-attacks are precisely 
+used to defend Akira from attacks after his special moves. This makes him 
+even more dangerous in attack or defense.
+
+To do his counter-attack, the D button is compulsory. You can either tap 
+it or hold it prior to the back+P, back/down+P or down+P motion. 
+According to the way he is attacked, the counter-attacks come out in 8 
+variations; more or less influenced by the counter-attack control 
+motions. It is most essential to learn his counter-attacks to harness 
+Akira's full potential. All his counter-attacks are very damaging and can 
+push opponents far away.
+
+PAI CHAN
+========
+She is a leading star in Hong Kong action films.
+
+Her moods change as quickly as a cat's - she can erupt in passion in one 
+minute, and turn icy cold in the next.
+
+Lau's only daughter, Pai was especially trained by her father in martial 
+arts from a young age. Lau was jealous of her superior abilities, 
+however, so she ran away from home at 16 when her mother died.
+
+Two years later, she was a success in the movie industry. When she 
+recieved word that her father was going to enter the world championship 
+fighting tournament, she also decided to enter.
+
+Editor's Notes
+--------------
+Pai, the "weak" little girl of VF1 is better than before. Now there are
+not many Pai players but there is one I met that could trash any Sarah
+player. She is mainly used by her fans and die-hards. 
+
+Crane Fist is accurately copied and depicted in VF. Crane Fist is known
+very much for grabbing attacks. Not necessarily to throw but to stop
+attackers from delivering their blows. A Shaolin based technique, it is in
+a true sense a very defensive technique. 
+
+This technique is also graceful to watch and Pai's double scissors kicks
+is a move to behold in slow motion. 
+
+Playing with Pai
+----------------
+Pai's strength is still her parry. She is fast and avoiding attacks is
+easy with Pai. She still has a weakness for low defenders but that is
+partially solved with her downward slap and scissors kicks. Her combos
+come out fast but would leave her totally vulnerable to throws if they
+fail to connect. Believe me, nobody in the right mind would want to punch
+or kick Pai. 
+
+Her back+P counter-attack is now more versatile and can grab a variety of
+attacks. Playing her is exactly the opposite of Akira. Pure defense. Her
+throws are rather fast and for anyone running up to her hoping for a free
+throw must be nuts. Her punches are fast enough to counter any would be
+throwers. For anyone closing in with punches, she can just back off easily
+due to the speed of her quick step back. Depending on the range they are
+closing in, a quick step back followed by her grab and attack would deter
+most. 
+
+All in all, concentrate on defense. Only use her combos to retaliate 
+throwers. Throw all those dumbfounded defenders afraid of attacking her. 
+Above all, set up your "stings". Her falling DDT and stomach throw can RO 
+many. Use the pushover throw to avoid ROs
+
+LAU CHAN
+========
+A leading Chinese chef, he is also a master of the legendary Koen-ken 
+martial art. A quiet man, he nevertheless has the air of resourcefulness 
+and skill seen only in those skilled in the art of Koen-ken. His cold 
+appearance belies a gentle nature.
+
+He achieved one of his life's ambitions when he was awarded the Grand Prix
+at the world's most renowned competition for Chinese chefs. Now, he is
+ready to fulfill his next ambition. He is resolved to enter the world
+championship fighting tournament and achieve his ultimate goal. 
+
+Editor's Notes
+--------------
+Lau is still the Super Ring Outer. Once you are caught by the knife hand 
+or equivalent, you better stop tapping those buttons. A dashing knife 
+followed by a full volley of punches and crescent would usually mean the end.
+
+This style of fighting actually stresses simplicity in its strokes but
+each stroke filled with every ounce of force you can muster. It does not
+stress on speed in attacks. However, this version used by Lau has speed.
+Only moves like the knife hand and the lifting palm retain this power. The
+speed is mainly in his punches and kicks. 
+
+Playing with Lau
+----------------
+Lau indeed has the speed and he has the power. This is the guy that made
+Jacky players re-evaluate their prowess. Mix up all your attacks. Do a
+combination of high and low attacks. Do not start your combos unless your
+knife hand or lifting palm hits. Both these moves either stun or lifts
+opponents high into the air. There is plenty of time to float them. 
+
+Use the punches and sweep combo for opponents who are heavy or falling
+fast. The punches and kickflip is good for ROs as they fling opponents 
+far away. At any situation, try to make the crescent in the punches and 
+crescent combo connect. A pounce after would end everything.
+
+With this speed, you may think getting all these in is good enough. No! 
+Lau's strength is in his punches. Everyone knows that. Have Akira, Pai,
+Kage or Wolf opposing you and you are going to have a difficult time. 
+These characters possess counter-attack moves. One grab or counter-attack
+and this would end your assault.
+
+It is here where his throws are useful. Because of his speed in punches,
+most would prefer a defend and wait attitude when playing against Lau.
+Just throw these defenders. His sideways throw is the most useful now. One
+sideways throw leaves Lau standing and ready; a dashing knife hand
+connects well straight after. If you need further damage, carry on with
+his punches and insert your favorite kick here.  What you will see is Lau
+going totally psycho punching the ribs of the thrown opponent. 
+
+His side kick is still fast but with counter-attacks from other 
+characters, you have to use it judiciously.
+
+To play with Lau is to play with caution. Learn to do his combos at the 
+opportune time but don't forget his basic moves.
+
+WOLF HAWKFIELD
+==============
+He lived as a woodsman and hunter in the Canadian wilderness until he was 
+discovered on a scouting trip by a professional wrestling promoter. A 
+quiet man who loves nature, he has his gentle side. He is filled with 
+fighting spirit, however. Once aroused, he is not satisfied until he 
+finishes the job at hand.
+
+He was an instant star in the pro wrestling area, and successfully
+defended his title several times. Dissatisfied with the level of
+competition, however, he turned in his belt and retired from the ring. 
+
+He entered the world championship fighting tournament in search of a 
+rival worthy of his abilities.
+
+Editor's Notes
+--------------
+He is big and huge now. Have moves and looks of a real wrestler. He is 
+fast becoming a favorite among many due to all those fabulous throws.
+
+Professional wrestling technique? Well, TV has many fine examples of pro 
+wrestling techniques. I don't think I need to explain this.
+
+Playing with Wolf
+-----------------
+As usual, go for throws. I would however go easy on the backfall suplex. 
+Any intended victim escapes and you are in trouble.
+
+His aerial attacks are magnificent and deadly. Learn to defend stoutly 
+but insert a few attacks here and there. His uppercuts are still slow 
+compared to Jeffry's but his body blow has tremendous range.
+
+Many of his moves are similar to the motions for the throws. Use this to
+your advantage. The upward two-hand slap has almost the same motion for
+the twirl and hurl. At close range you may get a twirl and hurl but at
+longer range, you have an attack that has very good reach. This applies to
+his body blow and his body slam which both apply the same control motion,
+for+P. 
+
+At mid range, his side kick is the most useful attack. More powerful than 
+the uppercuts, it always knocks down opponents. At close range, his knee 
+is good for lifting opponents into the air. If followed by an uppercut 
+and running punches, it would push them really far back.
+
+Anytime Wolf is in trouble, he can call upon his drop elbow to assist 
+him. This is a wonderful move against opponents relentlessly punching 
+hoping to overwhelm Wolf with speed attacks.
+
+Whenever an opponent is down, hit them with his back body splash or elbow 
+drop. His jumping elbow drop has very little range and should be used at 
+close range. The elbow drop connects easily after all his throws except 
+for the frankensteiner.
+
+Be opportunistic for throws at all times. For example, anyone rising with
+a low attack be it a sweep or a mule kick is asking for trouble. If the
+attack misses Wolf, a tombstone, double arm suplex or a torso takedown is
+all it takes to inflict damage. 
+
+JEFFRY MCWILD
+=============
+A fisherman on the Australian coast, he lived in the salty tang of the 
+tides and the hot sun. The most skillful fisherman of his village, he has 
+an engaging personality.
+
+He was bested by only one opponent - the giant, eight-meter long, 
+man-eating Satan Shark. They fought several battles, and finally met in 
+their ultimate match. Jeffry was routed and his boat wrecked, but he 
+somehow managed to recover as he hovered on the verge of death. He 
+entered the world championship fighting tournament with a vow to build a 
+new boat and do battle with the shark again.
+
+Editor's Notes
+--------------
+Like Wolf, he is huge. Does the name King Kong apply?
+
+Pancratium is actually a very ancient form of martial arts. The Greeks
+actually developed it as a sport. Partly stresses on holds and punches. 
+Best described as a very technical form of brawling. It has evolved to
+many forms and the most famous of which is Mu Thai or Thai Boxing. Truly a
+no holds barred fighting technique. 
+
+Playing with Jeffry
+-------------------
+Use him as you would for Wolf. He is a lot faster than Wolf but he 
+recovers just as slow. Use your lower attacks to force opponents to stand 
+defending making them vulnerable to your more devastating throws. His 
+fireman's carry would leave him entirely open if anyone should escape so 
+I would go easy on it too. He does have a slight advantage in this case 
+as the escapee falls far behind. His body press would leave him in the 
+same vulnerable position as Wolf's backfall suplex if the victim escapes.
+
+His flying butt attack has great range and what better way to humiliate 
+low defenders than to sit on them! The best throw he has now is the 
+backbreaker. Though the control motions look complicated it is actually 
+much easier to do than the crucifix piledriver. If you fail to throw, you 
+would most likely get off a butt attack which is not too bad. Defend 
+stoutly but as usual, look for breaks for your throws. In VF2, his throws 
+against low defenders or attackers is very easy to do. Learn to get them 
+all out.
+
+His side kick is as powerful as Wolf's but it has longer reach. Besides 
+side kicks, his forward foot thrust and heel axe has good range too. Use 
+them to your advantage. They are all rather damaging. The other moves 
+like the lunging elbow drop and thrusting head butt have very long 
+reaches too.
+
+His pounces are much faster than Wolf's. His butt bomb has much better
+range but it is still not good enough. His body splash is worst. He has a
+foot stomp so use it when you know opponents are rising fast. Use his
+pounces only after throws or kicks that land opponents near to Jeffry. A
+body splash after a side kick connects well. 
+
+Do not forget his powerful uppercuts. They are much faster and thus help 
+you keep opponents in the air longer.
+
+Just keep the pressure on your opponents. Even the sight of Jeffry adds a 
+lot of pressure already.
+
+KAGE-MARU
+=========
+He was born in the village of Hagakure. Kagemaru is the name given to 
+members of the Hagakure clan who work in secret in the shadows of society.
+
+His birthright was to become the tenth-generation Kagemaru. His father, 
+the ninth-generation Kagemaru, taught him the fearsome Hagakure fighting 
+technique.
+
+One day, his mother, the eighth-generation Tsukikage, was kidnapped by a 
+mysterious figure. Nothing was heard of her fate.
+
+Several years later, the village of Hagakure was attacked by an unknown 
+force. Kagemaru and his father were out fishing, but quickly returned 
+when they saw the blazing village. They were too late, however, and the 
+village was destroyed. Kagemaru's father was felled by a bullet from the 
+mystery group.
+
+The next morning, Kagemaru salvaged a keepsake from his father, donned 
+his costume, and embarked on a journey to prepare himself to take 
+vengeance on those who spilled his father's blood.
+
+Editor's Notes
+--------------
+By far, the character with the greatest improvement. Most likely, he would
+be called Mr Versatile (we already have a Mr Dynamite and he is Japanese
+also). Makes other game ninjas look rather pale in comparison. Fast rising
+as a favorite among many. 
+
+Jujitsu is very ancient as a form of martial arts. In the dark days of
+Feudal Japan, the ancient form is known as Ninjitsu. It is not a martial
+art but a technique expressedly used for killing. In modern times, the art
+form became more civilized and it became a sport very much like Taek Kwon
+Do. There are many styles and forms of Jujitsu which explains why Kage's
+Jujitsu is Hagakure style; named after the village he is from. Believe it
+or not, Jujitsu's main emphasis is on throws and counter-attacks, not
+fancy tricky moves. So Kage's fighting technique may best be described as
+realistically fictional. 
+
+Playing with Kage
+-----------------
+Use his range to your advantage. His flying kick, corkscrew kick, back
+thrust and heel kick have deceptively long reaches. To aid him against low
+defenders, the corkscrew kick works well at far range. He doesn't have any
+good combos however. The punches and kickflip is by far the best he has;
+and the punches and spin kick is the weakest four hit combo in the game.
+
+His strength is mainly in fancy and tricky moves. His turn around attacks
+can connect well and above all; with his new found speed in punches, he
+can be played just like Lau. Mixing up his attacks is very easy. Attacking
+at high and low, this would confuse many. His most useful tagged on move
+is still his backheel sweep. Though his pounces connects well now, the
+backheel sweep is still good habit to keep. 
+
+His range of movement is even greater with a cartwheel added. Catching 
+him would be difficult if he gets ahead. To play Kage is to play the 
+whole ring. Movement must be a top priority for Kage players.
+
+All his throws are so easy to do and solid. The infamous back+P ten foot 
+toss is the most useful throw in the whole game. When followed on with 
+attacks or combos that cover distance, ROs or KOs are really very easy. 
+Throws that land opponents at close range connect well with the heel 
+smash. Use this always.
+
+His counter-attack counters incoming punches only. Learn to use them when 
+your opponent becomes to predictable. It does quite sizeable damage.
+
+Playing him would mean sticking to the basics. That is all to it. 
+Combining all those basic attacks would be the feat that every Kage player
+has to develop. Combinations especially with his ten foot toss would be
+the ultimate skill Kage players will have to master. 
+
+SARAH BRYANT
+============
+Sarah is Jacky's sister and the oldest daughter of the Bryant family. 
+Filled with curiosity, she quickly becomes embroiled in every situation 
+imaginable.
+
+Sarah was suspicious of the circumstances surrounding her brother Jacky's 
+racing accident. When she was investigating this accident, the mystery 
+group kidnapped her. They use hypnosis to control her actions.
+
+Her innate fighting sense aroused by the hypnotism, Sarah will be sent 
+into the tournament to deliver the knock-out blow to her brother Jacky.
+
+Editor's Notes
+--------------
+Apart from a cleavage, she is loaded with a variety of kicks mainly. 
+Still a hot favorite, her speed and seemless ability to link up all her 
+moves have won many fans.
+
+First a historical view of this fighting technique. Jeet Kune Do is
+authored by Bruce Lee himself. Also known as the Intercepting Fist, it
+stresses on speed and above all harrassment. This is true as a Jeet Kune
+Do exponent would do things like poke the eyes, kick the groin or even jab
+at the throat to irritate or confuse an opponent before lashing out a
+power attack move.
+
+Sarah's style of fighting is very different from her brother Jacky. Though
+it is from the same school of thought, it is described as very wicked and
+mean with no sense of grace. 
+
+Playing with Sarah
+------------------
+Playing with Sarah is like playing with Akira. Very offensive. She is fast
+and this should be used to your advantage. To date, no new throws are
+discovered for her. However, the bulldog throw of hers has great range.
+This can be used to "encourage" opponents to stay low and be vulnerable to
+Sarah's arsenal of attacks against low defenders. 
+
+The strength of Sarah is in combination not combos. Tag on all moves that
+connect and you will go far with her. Her speed of movement is fast so
+avoiding attacks is just a breeze. Her rising knee combo connects rather
+well now and can be followed on with a kickflip. With this new speed in
+VF2, Sarah has now earned the same notoriety as Lau for floating
+opponents. 
+
+Her turn around moves are fast and powerful. Her turn around punch 
+followed by any 4 hit combo would push many back. She does however have a 
+sweep but is only useful when her back is facing the opponent.
+
+Her toe kick-side kick has good range and would spell trouble for all who 
+miss their rising attacks. The roundhouse kick can jump over many low 
+attacks and the same goes to the tornado kick which has even greater 
+range. These moves recover slowly and should be used when the opportunity 
+allows.
+
+Sarah does not side kick opponents. She shadow kicks them. If a side kick
+could hit at close range, make sure you shadow kick them. Most likely all
+the three kicks will connect making it a very powerful side kick attack. 
+
+Do not give them any room at all. Punch throw techniques work like a 
+charm with her and; low kicks and punches do very well too.
+
+JACKY BRYANT
+============
+The eldest son of the Bryant family, Jacky is Sarah's brother. He 
+maintains his cool in every situation. Those on the Indy racing circuit 
+call him the Blue Flash.
+
+Jacky was seriously injured in an accident in the 1990 Indianapolis 500, 
+and spent two years in a grueling rehabilitation program. Just when his 
+injury had healed, he discovered the existence of the mystery group 
+behind the accident. At the same time, his sister Sarah disappeared.
+
+Jacky's battle began as he pursued the trail of the group who held the 
+key to these mysteries.
+
+Editor's Notes
+--------------
+The favorite character of VF1 is still a favorite with many but is toned 
+down a lot. Still deadly though.
+
+Though he fights with the same style as Sarah, he does not have the speed 
+to match. However, harrassment to opponents apply beautifully to his moves.
+
+In terms of grace and technique, his moves surpass Sarah's.
+
+Playing with Jacky
+------------------
+He is still not the best at everything. However, like Sarah, combinations 
+are the way to go.
+
+His elbow-heel kick is not fearsome anymore as with his punt kick, but his
+beat knuckle is really bad for everyone. He still does not possess a
+kickflip combo but his kickflip alone is the most powerful kickflip in the
+game. Able to take as much as eighty percent of the lifebar, it has left
+many wondering why the round ended so fast. 
+
+His spinning backfists, both high and low are much faster. The low
+spinning backfist especially can be considered as some form of
+counter-attack as it can duck under many punches. A deadly combination for
+Jacky involves a low spinning backfist. As opponents charge in punching,
+do a single low backfist, elbow, knee then kickflip. This drains the
+entire lifebar in an instant. Such is the power of Jacky. 
+
+Combine all his moves. Try to get the trip and hammer throw in and kick
+them. His turn around moves are nice to see especially when they connect
+but use them carefully. This applies to his crescent and sweep; and the
+low spinning kick as well. His lightning kicks is best used sparingly. Try
+to do one or two lightning kicks as they would most likely stun opponents. 
+
+Play a balanced game of offense and defense. Play him a little like Pai
+and Sarah. Use combos to deter throwers and counter mainly with his low
+spinning backfist. You can try using all the fancy stuff he has but don't
+be overwhelmed by them. Just like Sarah, use those low kicks and punches. 
+
+SHUN DI
+=======
+
+No storyline available yet
+
+Editor's Notes
+--------------
+There are many bald characters in the video games lately like Wan Fu and 
+Nienhalt Sieger. Wonder if it is a trend or do bald guys really rule.
+
+Drunken Fist requires the exponent (not player) to be drunk in the mind
+but alert in the body. It stresses more on defensiveness. Ducking and
+jumping over attacks. This is true as most of Shun's moves are defensively
+offensive (what the hell am I talking about?). They jump, duck and dodge
+many attacks. His two hand upside-down push ducking under punches is a
+fine example.
+
+Playing with Shun
+-----------------
+To play him, you have to be totally unpredictable. Stop combos or attacks 
+with you backpush. It attacks REALLY LOW so that elbows and knees seldom 
+hit you. The only moves that stand a chance are toe kicks, punt kick; and 
+kickflips against this move.
+
+Use his jumping attacks like the twisting hook punch to hop over low and
+mid-level attacks. You have to be completely reactionary in your 
+execution. You have to be alert all throughout and have to have good
+reflexes. You can't do a lot of planning for Shun. Play as the situation
+goes. You can't outguess opponents either so reflexes are the way. For
+example, his cartwheel kick is fast but recovers slowly.  Use this to stop
+charging opponents hoping to connect with a throw. 
+
+His falling moves can be good too. These moves evade power attacks after
+and the only vulnerable thing is a punch or kick to fallen opponents. Not
+much damage will be done with these moves on Shun. Nobody would be crazy
+enough to pounce. His rising rotorblade kicks get anyone jumping in. 
+
+As much as possible, dodge attacks if you are a beginner and learn to do
+the dodge and dances with punches. Progress onwards to learn the rest. 
+Note that all his moves are slow and recover slowly; and if you play him
+like any other character in VF2, you are playing him wrong. He can float
+opponents in some limited way but that is not his main strength. 
+
+Progress on to hone your reflexes for all his moves. Try to use the dances
+with punches and two hand upside-down push at least three times in a
+match. Get him drunk (SERIOUS!). His skin complexion turns lobster red the
+more he drinks. He not only hits harder but is able to do his triple
+sweep. These sweeps can do serious damage on falling opponents after a
+connected move. 
+
+LION RAFALE
+===========
+
+No storyline available
+
+Editor's Notes
+--------------
+This Frenchman has a lot of sting as a fighter. He has youth on his side
+but is rather weak in most of his attacks. Nimble and small, he fights and
+moves like the bug his fighting style is based upon. 
+
+A historical view of this fighting technique reveals that Mantis Fist
+actually stress not only in speed but mainly in footwork and grip. This
+explains the many wierd ways Lion moves his feet around and the way he
+throws his opponents. He winds up and fights in a crouched position which
+looks very tiring. Like Shun he can duck under most mid-level attacks like
+elbows and knees. Such is the fighting technique. 
+
+Playing with Lion
+-----------------
+Playing Lion would mean playing closing-in with hit and run tactics. All
+his moves enable him to close-in very fast. He is small so he doesn't have
+much of a reach. His main strength is actually his throws. They are fast
+and difficult to avoid. As much as possible practice his ducking moves. 
+It is very useful as many attacks just zip past his head. Fight a balanced
+game like you are using Jacky but concentrate on throws at close range. At
+further ranges, his spinning to the opponents side counter-attacks are a
+good option. This move confuses many. 
+
+His side kicks are the fastest so use them to your advantage. He does have
+a knee but it comes out slow; definitely not recommended for low
+defenders. Rely more on his faster recovering moves. The uppercut and
+downward swipe is good and fast. His long range spinning sweeps are
+deceptive as one hits standing defenders and the other hits low defenders.
+Use this creatively as an illusion. 
+
+His speed is his greatest asset so keep that in mind. Backing off from 
+attacks is pretty easy with him. However, go easy on his low attacks. 
+They are fast but recover slow.
+
+It is difficult to float opponents with Lion so you might as well forget
+it. The best he can muster is the low swipe kicks, one hand-stand kicks
+and his arm spin for falling opponents. However, his knee connects very
+well on already airborne opponents. He does not have much combos to muster
+against airborne opponents other than the punch, thrust and backfist combo.
+
++=======+
+|CREDITS|
++=======+
+Produced by:
+Chia Jin Ngee "Sarah", mcblab47@leonis.nus.sg
+
+Special thanks to the contributors of VF1 of which there won't be VF2:
+
+God                                 keeping my head on straight 
+The Family Fun Center in Omaha, NE  for Virtua Fighter
+Sega                                info & for VF1
+Andrea                              SEGA
+Dave                                SEGA
+Andy Eddy                           vidgames@netcom.com
+Shorty                              Family Fun Center
+Michael Wang                        mmwang@mv.us.adobe.com
+Jose                                Family Fun Center
+Derrick                             Family Fun Center
+Christopher R. Boggs                gt93986@acme.gatech.edu
+Harry Teasley III                   het3@crash.cts.com
+Ryan Wolfe                          wolfe@cps.msu.edu
+Jeremy Hinton                       hinton@cs.odu.edu
+Steve Lamb                          sandman@netcom.com
+R. 'Tom' Cruz Sogeuco               rc_sogu@paro.concordia.ca
+Alan Fasick                         fasick@ucsu.colorado.edu
+Brian Tao                           taob@io.org
+Graham Chubb                        chubb@ecf.toronto.edu
+Eric                                eric@parcplace.com
+Vax                                 vax@ccwf.cc.utexas.edu
+Kevin Miller                        miller@midget.towson, edu.
+Marie E. Antoon                     Marie.E.Antoon@Students.Miami.edu
+Koh Kawabe                          kawabee@is.s.u-tokyo.ac.jp
+World Book Dictionary               definitions of virtual & fighter
+Replay Magazine                     some info on VF1
+Iain Sinclair                       some info on VF1
+Chad E Reznicek                     for original VF1 FAQ
+Doug Rosengard                      dug@lugaru.com for maintaining VF1 FAQ
+
+VF2 info providers:
+
+Chris Halim                         halim@getreal.uucp.netcom.com
+Alan Tan "Lion"                     tanhl@merlion.singnet.com.sg
+Robert Laus                         robert@jolt.mpx.com.au
+Koh Kawabe                          kawabee@is.s.u-tokyo.ac.jp
+Scirocco Boy!                       wcox@black.clarku.edu
+David, manager of Country Funworld  Country Funworld
+Harley "Jacky"                      Country Funworld
+Gary Peh "Wolf"                     Country Funworld
+Joseph Lim "Akira"                  Country Funworld
+Eric Chen "Sarah"                   Country Funworld
+Julian Chia "Kage"                  Country Funworld and twin brother
+Lau Bie See "Lau"                   Country Funworld
+Danny Leung "Kage"                  Country Funworld
+Alex Ho "Jeffry"                    WYWY Clementi
+Virtua Fighter Maniax               For storylines on characters
+
+
